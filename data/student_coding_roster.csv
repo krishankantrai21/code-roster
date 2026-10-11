@@ -1,0 +1,1501 @@
+student_id,daily_coding_hours,problems_solved,submission_accuracy,consistency_streak_days,assignments_completed,focus_score,primary_language,performance_tier
+STU_1000,0.6,60,53.6,4,5,6.5,Python,Needs Guidance
+STU_1001,7.0,393,68.8,48,13,7.5,JavaScript,Exemplary
+STU_1002,1.1,110,57.4,22,7,6.0,C++,Needs Guidance
+STU_1003,1.0,39,40.8,9,3,5.5,Java,Needs Guidance
+STU_1004,3.7,232,61.6,38,8,6.1,Python,Needs Guidance
+STU_1005,7.5,418,66.4,48,13,9.5,Python,Exemplary
+STU_1006,4.4,276,74.0,45,13,7.2,Python,Exemplary
+STU_1007,3.0,173,67.3,20,7,5.3,C++,Competent
+STU_1008,3.0,234,51.8,34,10,7.1,Java,Competent
+STU_1009,3.4,213,74.9,37,9,7.2,C++,Competent
+STU_1010,3.3,164,80.9,26,7,6.8,Python,Exemplary
+STU_1011,2.6,187,62.8,32,7,7.0,JavaScript,Competent
+STU_1012,2.3,158,55.4,27,7,5.6,C++,Competent
+STU_1013,2.2,127,81.1,20,8,6.9,Python,Competent
+STU_1014,1.5,105,46.4,12,8,5.5,Python,Needs Guidance
+STU_1015,1.9,124,58.4,7,7,6.3,Python,Needs Guidance
+STU_1016,1.0,107,58.6,19,7,5.5,Python,Needs Guidance
+STU_1017,2.1,135,69.8,11,5,5.4,Java,Competent
+STU_1018,1.4,168,64.1,20,5,5.2,Python,Competent
+STU_1019,1.3,102,52.8,16,5,3.5,Python,Needs Guidance
+STU_1020,2.4,189,55.0,31,8,5.1,Java,Needs Guidance
+STU_1021,4.5,256,64.3,37,9,6.9,Python,Competent
+STU_1022,3.5,197,55.1,30,10,5.5,Python,Competent
+STU_1023,1.0,99,57.0,22,4,5.1,Python,Needs Guidance
+STU_1024,1.4,115,53.2,22,6,5.8,Java,Needs Guidance
+STU_1025,3.6,244,54.3,36,10,7.2,C++,Exemplary
+STU_1026,1.4,188,72.6,23,3,3.4,Python,Needs Guidance
+STU_1027,2.0,106,53.1,11,10,7.6,Java,Needs Guidance
+STU_1028,2.9,198,53.1,35,8,7.8,Java,Competent
+STU_1029,1.4,130,57.3,24,3,4.4,Python,Competent
+STU_1030,2.3,158,61.1,17,7,6.1,Java,Needs Guidance
+STU_1031,1.1,108,43.2,15,6,5.2,Python,Needs Guidance
+STU_1032,1.6,162,63.5,20,6,5.6,Python,Competent
+STU_1033,2.6,118,49.5,26,9,6.3,JavaScript,Needs Guidance
+STU_1034,1.0,47,66.8,19,7,5.3,JavaScript,Needs Guidance
+STU_1035,2.8,204,67.8,40,9,7.1,C++,Competent
+STU_1036,2.2,207,60.6,33,8,7.8,Python,Competent
+STU_1037,2.9,132,52.8,18,7,4.7,Python,Competent
+STU_1038,2.5,111,56.6,31,10,6.5,Java,Competent
+STU_1039,4.4,306,75.3,49,8,5.6,Python,Exemplary
+STU_1040,2.4,184,62.1,29,8,7.3,Python,Competent
+STU_1041,1.8,132,57.1,30,7,5.1,Java,Needs Guidance
+STU_1042,2.4,182,62.6,42,9,5.1,Python,Competent
+STU_1043,2.9,189,57.8,37,7,6.3,JavaScript,Competent
+STU_1044,2.3,173,58.8,27,5,6.5,Python,Needs Guidance
+STU_1045,2.3,167,44.4,33,8,6.5,Java,Competent
+STU_1046,1.6,147,67.6,22,7,5.7,Python,Competent
+STU_1047,1.6,61,56.5,21,9,6.4,Java,Needs Guidance
+STU_1048,1.1,78,49.0,14,4,5.6,Java,Needs Guidance
+STU_1049,5.3,313,86.1,57,13,7.5,Python,Exemplary
+STU_1050,1.2,90,56.7,11,9,5.9,JavaScript,Needs Guidance
+STU_1051,1.6,145,51.4,33,6,4.8,C++,Needs Guidance
+STU_1052,1.6,159,67.5,24,4,3.7,JavaScript,Competent
+STU_1053,3.5,154,63.5,22,8,6.0,C++,Competent
+STU_1054,1.9,153,63.4,25,7,6.5,Java,Needs Guidance
+STU_1055,4.2,235,62.3,20,10,7.5,JavaScript,Competent
+STU_1056,1.6,187,66.1,25,6,5.7,Python,Competent
+STU_1057,2.6,184,60.2,34,10,6.8,Python,Needs Guidance
+STU_1058,1.5,124,62.7,15,4,5.0,Python,Competent
+STU_1059,6.5,329,56.7,53,10,7.0,Python,Exemplary
+STU_1060,1.2,85,52.2,33,8,5.5,Python,Competent
+STU_1061,2.6,193,76.6,23,4,5.0,Python,Competent
+STU_1062,3.1,187,56.3,22,8,6.4,C++,Needs Guidance
+STU_1063,2.7,240,61.2,39,13,7.8,Python,Competent
+STU_1064,2.0,151,56.5,39,7,5.5,Python,Competent
+STU_1065,2.1,169,51.5,24,5,4.7,Java,Competent
+STU_1066,2.3,230,47.7,33,7,8.2,Python,Needs Guidance
+STU_1067,2.1,189,60.8,34,7,6.4,C++,Competent
+STU_1068,3.6,222,65.9,27,9,6.9,Python,Competent
+STU_1069,6.7,375,74.6,50,13,8.4,JavaScript,Exemplary
+STU_1070,1.7,118,56.7,31,5,4.6,C++,Competent
+STU_1071,1.1,171,61.7,31,9,5.9,Python,Needs Guidance
+STU_1072,2.1,150,68.2,28,7,5.9,Python,Needs Guidance
+STU_1073,8.0,444,78.1,55,15,8.0,C++,Exemplary
+STU_1074,1.5,123,53.6,36,6,3.9,C++,Needs Guidance
+STU_1075,5.1,265,65.4,39,12,7.4,C++,Exemplary
+STU_1076,5.1,332,76.8,40,10,7.4,C++,Exemplary
+STU_1077,1.7,134,70.2,24,7,5.3,Python,Needs Guidance
+STU_1078,3.0,264,62.6,42,7,7.0,Python,Needs Guidance
+STU_1079,5.0,311,71.5,49,9,5.8,Python,Exemplary
+STU_1080,1.8,102,59.5,25,8,5.2,C++,Competent
+STU_1081,2.0,182,54.2,27,6,6.5,Java,Needs Guidance
+STU_1082,1.7,121,58.2,21,5,5.0,Python,Needs Guidance
+STU_1083,1.3,144,47.9,23,5,5.5,Python,Needs Guidance
+STU_1084,1.6,89,41.8,1,7,7.1,Python,Needs Guidance
+STU_1085,1.2,66,57.3,15,5,4.2,Python,Needs Guidance
+STU_1086,2.3,174,58.5,27,7,5.6,C++,Needs Guidance
+STU_1087,1.5,162,62.4,11,6,5.0,Java,Needs Guidance
+STU_1088,2.5,194,62.8,29,5,3.6,C++,Competent
+STU_1089,1.0,97,48.7,15,3,3.9,Java,Needs Guidance
+STU_1090,2.6,238,65.5,41,8,6.8,Python,Competent
+STU_1091,3.4,253,57.0,45,8,6.7,C++,Competent
+STU_1092,0.8,87,66.9,11,7,5.8,C++,Needs Guidance
+STU_1093,2.7,154,49.4,26,9,6.1,Java,Needs Guidance
+STU_1094,4.1,259,65.7,36,10,6.5,C++,Competent
+STU_1095,1.2,129,50.3,14,8,6.7,Java,Needs Guidance
+STU_1096,5.1,287,73.7,45,10,6.9,Java,Exemplary
+STU_1097,2.7,206,61.1,21,8,6.3,Python,Competent
+STU_1098,1.6,108,53.1,11,5,5.0,Python,Needs Guidance
+STU_1099,2.2,149,66.8,29,11,8.0,Python,Competent
+STU_1100,2.9,231,65.6,34,11,7.8,Python,Competent
+STU_1101,2.3,145,63.8,19,7,4.6,Java,Competent
+STU_1102,2.9,230,57.5,36,9,5.5,Python,Competent
+STU_1103,1.4,103,45.6,14,8,6.2,Java,Needs Guidance
+STU_1104,2.4,174,62.5,28,7,5.6,JavaScript,Competent
+STU_1105,1.1,134,56.4,24,5,4.4,Python,Needs Guidance
+STU_1106,2.1,161,65.7,23,8,6.7,Python,Needs Guidance
+STU_1107,1.4,80,54.7,23,6,5.3,C++,Needs Guidance
+STU_1108,1.5,90,57.6,16,6,5.2,Python,Needs Guidance
+STU_1109,4.1,274,55.3,35,8,7.0,Python,Competent
+STU_1110,3.8,232,80.6,33,6,5.4,Python,Competent
+STU_1111,3.0,175,60.4,24,8,7.4,Python,Competent
+STU_1112,1.3,79,60.8,17,7,4.8,JavaScript,Competent
+STU_1113,1.9,92,49.4,10,6,5.8,C++,Needs Guidance
+STU_1114,4.1,196,65.5,33,11,8.5,Java,Competent
+STU_1115,2.4,162,50.4,23,6,4.3,C++,Competent
+STU_1116,7.1,382,79.1,54,11,7.8,C++,Exemplary
+STU_1117,2.7,158,57.7,26,7,6.7,Python,Competent
+STU_1118,2.4,167,61.4,25,7,6.6,C++,Competent
+STU_1119,1.9,163,66.5,26,8,5.7,Java,Competent
+STU_1120,2.4,239,56.1,33,6,4.8,C++,Competent
+STU_1121,2.1,105,51.5,18,9,7.0,C++,Needs Guidance
+STU_1122,3.2,217,68.1,21,11,8.0,Python,Competent
+STU_1123,3.6,235,82.5,25,8,5.4,Python,Competent
+STU_1124,1.5,98,55.4,16,8,4.8,Python,Needs Guidance
+STU_1125,1.1,104,61.7,14,4,4.7,Python,Needs Guidance
+STU_1126,0.9,72,53.9,10,7,5.8,C++,Needs Guidance
+STU_1127,2.9,176,77.3,18,9,6.2,C++,Competent
+STU_1128,1.3,146,45.8,15,7,6.0,Python,Needs Guidance
+STU_1129,0.8,111,58.2,17,5,4.1,Java,Needs Guidance
+STU_1130,2.7,208,50.9,32,3,2.9,Python,Needs Guidance
+STU_1131,7.7,412,57.4,56,13,8.5,Python,Exemplary
+STU_1132,2.2,116,60.1,21,6,5.4,Python,Needs Guidance
+STU_1133,3.4,199,64.4,25,7,5.7,Python,Competent
+STU_1134,2.3,196,60.8,25,7,4.7,JavaScript,Competent
+STU_1135,2.1,103,56.0,17,6,3.9,Python,Needs Guidance
+STU_1136,3.5,208,88.7,37,7,5.6,Java,Needs Guidance
+STU_1137,1.9,117,55.7,8,5,5.7,C++,Competent
+STU_1138,2.5,143,63.6,23,6,6.4,Python,Competent
+STU_1139,2.6,165,55.8,29,9,7.3,JavaScript,Competent
+STU_1140,1.6,124,60.6,22,5,4.2,JavaScript,Competent
+STU_1141,3.7,249,64.7,56,9,5.7,Python,Competent
+STU_1142,2.0,133,55.6,26,6,5.7,Java,Competent
+STU_1143,1.5,126,73.0,12,6,5.7,Python,Needs Guidance
+STU_1144,2.9,160,70.1,28,9,6.7,Python,Competent
+STU_1145,1.4,50,54.4,5,1,2.0,Python,Needs Guidance
+STU_1146,2.3,148,41.4,24,9,5.6,Java,Needs Guidance
+STU_1147,2.2,165,58.1,18,9,6.2,Java,Competent
+STU_1148,3.8,250,88.3,42,8,6.7,Python,Competent
+STU_1149,2.8,169,59.4,24,6,6.1,Python,Competent
+STU_1150,2.2,159,69.4,23,6,5.5,JavaScript,Competent
+STU_1151,3.3,159,72.1,26,7,6.2,Python,Competent
+STU_1152,4.5,316,72.8,53,11,7.5,Python,Exemplary
+STU_1153,2.9,198,56.5,26,5,5.8,Java,Competent
+STU_1154,2.2,183,42.7,39,6,5.6,JavaScript,Needs Guidance
+STU_1155,1.2,150,65.5,24,8,5.8,Python,Competent
+STU_1156,1.3,96,49.9,22,5,4.6,Java,Needs Guidance
+STU_1157,1.9,180,63.4,25,9,6.2,C++,Needs Guidance
+STU_1158,1.6,143,49.5,24,7,5.9,Python,Competent
+STU_1159,2.0,109,55.1,8,4,4.9,C++,Competent
+STU_1160,2.3,161,61.0,23,8,6.3,Python,Competent
+STU_1161,2.9,208,66.0,36,8,7.2,Java,Competent
+STU_1162,2.1,185,53.4,23,6,5.5,Java,Competent
+STU_1163,2.8,138,68.8,17,8,5.6,Java,Competent
+STU_1164,2.3,146,55.0,25,8,6.7,Python,Competent
+STU_1165,0.8,148,46.5,29,7,4.2,C++,Needs Guidance
+STU_1166,1.4,128,57.7,29,8,4.9,Python,Needs Guidance
+STU_1167,2.1,177,62.1,23,7,5.9,Python,Competent
+STU_1168,1.2,169,62.6,25,4,4.9,Python,Needs Guidance
+STU_1169,3.0,184,73.2,27,7,4.9,Java,Competent
+STU_1170,4.8,277,66.6,28,14,8.1,Java,Competent
+STU_1171,4.1,208,62.9,29,10,6.5,Python,Competent
+STU_1172,2.0,198,54.4,36,11,6.4,Java,Competent
+STU_1173,4.7,283,75.4,38,12,8.5,Python,Exemplary
+STU_1174,2.4,179,63.4,24,8,6.6,Java,Competent
+STU_1175,1.9,124,54.9,20,7,5.6,Python,Needs Guidance
+STU_1176,1.6,124,43.0,36,7,5.1,Java,Needs Guidance
+STU_1177,1.9,186,74.0,35,4,3.6,Python,Competent
+STU_1178,1.8,127,48.6,39,7,6.7,JavaScript,Needs Guidance
+STU_1179,2.4,159,55.9,24,9,6.8,Python,Needs Guidance
+STU_1180,2.4,199,66.1,28,6,4.8,Python,Needs Guidance
+STU_1181,2.2,138,49.6,12,7,6.2,Python,Needs Guidance
+STU_1182,2.8,265,55.7,40,9,6.3,JavaScript,Competent
+STU_1183,4.0,255,50.0,27,8,6.2,C++,Competent
+STU_1184,3.6,217,70.2,35,8,6.6,Python,Competent
+STU_1185,1.1,87,51.4,8,4,3.9,Java,Needs Guidance
+STU_1186,0.6,70,78.1,9,4,4.1,C++,Needs Guidance
+STU_1187,3.6,176,53.8,27,7,6.1,Java,Competent
+STU_1188,1.1,71,47.4,12,4,4.1,Java,Needs Guidance
+STU_1189,2.0,128,54.0,19,9,6.7,Python,Needs Guidance
+STU_1190,1.2,50,55.3,13,4,6.0,Python,Needs Guidance
+STU_1191,0.9,113,53.8,23,6,4.4,C++,Needs Guidance
+STU_1192,2.9,169,66.2,20,7,4.5,JavaScript,Competent
+STU_1193,3.3,176,53.9,33,10,5.2,Java,Needs Guidance
+STU_1194,1.7,168,50.1,31,9,6.0,Python,Competent
+STU_1195,0.6,91,41.7,10,6,4.4,Python,Competent
+STU_1196,1.7,128,40.7,15,7,5.7,C++,Needs Guidance
+STU_1197,2.7,174,57.5,26,7,5.9,C++,Needs Guidance
+STU_1198,1.1,143,57.1,27,4,3.2,C++,Needs Guidance
+STU_1199,2.4,190,57.6,27,10,5.1,C++,Competent
+STU_1200,2.2,159,70.5,20,6,5.6,Java,Competent
+STU_1201,3.0,187,72.3,33,9,6.6,Python,Competent
+STU_1202,2.4,158,57.9,17,9,6.0,Python,Competent
+STU_1203,1.4,164,46.6,25,5,3.5,C++,Needs Guidance
+STU_1204,4.0,241,61.5,39,11,7.7,Java,Competent
+STU_1205,2.1,202,58.7,21,8,6.9,Python,Competent
+STU_1206,2.2,133,53.6,18,9,6.5,Python,Needs Guidance
+STU_1207,1.4,106,51.5,12,5,4.2,Java,Needs Guidance
+STU_1208,1.8,133,53.6,26,5,5.0,Python,Needs Guidance
+STU_1209,1.4,148,56.8,29,6,4.1,Python,Competent
+STU_1210,2.0,96,51.3,18,7,6.4,Java,Needs Guidance
+STU_1211,5.2,302,71.8,47,11,7.7,Java,Exemplary
+STU_1212,1.1,43,55.7,1,5,3.4,Java,Needs Guidance
+STU_1213,1.0,95,49.0,12,3,3.9,Python,Needs Guidance
+STU_1214,4.6,304,80.4,40,11,7.8,C++,Exemplary
+STU_1215,2.0,151,52.2,16,9,5.9,Python,Competent
+STU_1216,1.6,55,40.7,13,7,5.3,Python,Needs Guidance
+STU_1217,3.7,274,71.3,29,10,5.9,C++,Exemplary
+STU_1218,1.6,144,53.1,23,7,6.0,Java,Needs Guidance
+STU_1219,5.5,300,72.6,44,12,7.5,C++,Exemplary
+STU_1220,3.1,169,42.0,12,9,4.7,Java,Competent
+STU_1221,1.7,103,68.0,4,6,4.9,Java,Competent
+STU_1222,6.5,344,78.3,47,12,9.0,Python,Exemplary
+STU_1223,1.6,144,47.6,24,5,4.6,Python,Needs Guidance
+STU_1224,3.2,147,48.0,9,7,7.3,Python,Needs Guidance
+STU_1225,2.6,161,74.1,23,8,6.4,Python,Competent
+STU_1226,4.3,238,60.0,34,9,7.0,JavaScript,Competent
+STU_1227,4.9,282,62.1,53,11,7.4,Python,Competent
+STU_1228,2.3,163,42.7,22,8,5.9,C++,Competent
+STU_1229,1.5,148,57.1,23,8,5.6,Java,Competent
+STU_1230,2.8,205,61.8,29,10,6.5,C++,Needs Guidance
+STU_1231,1.6,113,63.3,3,6,5.6,Java,Competent
+STU_1232,6.1,375,63.8,56,10,6.8,Java,Exemplary
+STU_1233,2.4,160,48.5,27,7,4.8,Java,Needs Guidance
+STU_1234,1.9,175,65.3,26,7,4.7,Python,Competent
+STU_1235,2.4,205,71.7,57,6,7.0,C++,Competent
+STU_1236,1.1,48,40.6,1,7,5.8,Python,Needs Guidance
+STU_1237,1.4,127,67.1,33,7,5.7,Python,Competent
+STU_1238,4.1,275,68.6,34,10,6.2,Java,Competent
+STU_1239,1.6,160,69.4,23,8,6.3,Python,Needs Guidance
+STU_1240,1.3,127,57.9,18,5,4.7,JavaScript,Needs Guidance
+STU_1241,2.9,213,44.0,25,9,6.6,JavaScript,Competent
+STU_1242,4.0,216,63.2,31,9,5.9,JavaScript,Competent
+STU_1243,3.2,223,73.3,33,8,6.3,Python,Competent
+STU_1244,3.7,205,56.5,22,7,5.7,Python,Competent
+STU_1245,1.5,161,57.6,26,9,5.5,JavaScript,Competent
+STU_1246,1.1,96,55.0,14,5,5.4,Python,Needs Guidance
+STU_1247,4.7,255,43.8,32,11,6.2,JavaScript,Competent
+STU_1248,1.9,152,73.5,19,4,5.1,JavaScript,Competent
+STU_1249,2.0,195,55.8,33,9,6.7,C++,Competent
+STU_1250,4.3,239,70.0,34,11,6.7,Python,Competent
+STU_1251,2.9,200,62.6,32,8,5.5,Python,Competent
+STU_1252,2.8,150,70.1,22,7,5.6,C++,Needs Guidance
+STU_1253,6.6,328,75.1,59,13,8.8,Python,Exemplary
+STU_1254,1.6,148,58.0,26,10,6.3,Python,Competent
+STU_1255,3.5,273,61.1,48,6,6.0,Java,Competent
+STU_1256,2.3,170,67.7,24,8,7.4,JavaScript,Competent
+STU_1257,2.5,139,44.3,32,6,5.0,Java,Needs Guidance
+STU_1258,4.8,282,74.0,42,10,5.8,Java,Exemplary
+STU_1259,2.9,162,52.0,39,8,6.8,Python,Competent
+STU_1260,2.9,216,74.4,23,7,7.2,Java,Competent
+STU_1261,3.8,226,66.4,41,9,7.0,JavaScript,Competent
+STU_1262,1.9,174,66.8,21,5,4.1,Python,Needs Guidance
+STU_1263,1.5,148,60.5,19,8,5.7,Java,Needs Guidance
+STU_1264,1.3,95,42.3,19,3,3.3,C++,Needs Guidance
+STU_1265,0.8,67,47.6,17,6,5.5,C++,Needs Guidance
+STU_1266,6.2,364,79.6,49,11,6.8,Java,Exemplary
+STU_1267,1.3,98,57.9,20,4,4.3,C++,Needs Guidance
+STU_1268,2.0,182,71.6,36,8,5.1,Python,Competent
+STU_1269,1.9,150,63.2,30,5,5.1,Python,Needs Guidance
+STU_1270,2.6,151,52.3,34,8,5.8,C++,Needs Guidance
+STU_1271,3.3,151,53.7,28,6,5.8,C++,Competent
+STU_1272,3.4,210,64.8,25,9,6.6,C++,Competent
+STU_1273,1.7,139,40.8,29,5,4.1,JavaScript,Needs Guidance
+STU_1274,2.0,152,73.5,30,6,5.8,Java,Competent
+STU_1275,2.6,224,68.5,39,8,6.0,Java,Competent
+STU_1276,2.0,169,71.1,18,5,4.2,C++,Needs Guidance
+STU_1277,5.0,288,56.6,41,10,9.0,Java,Competent
+STU_1278,2.8,152,70.1,15,5,5.6,C++,Competent
+STU_1279,3.2,216,82.3,28,9,6.4,C++,Competent
+STU_1280,3.1,188,52.0,38,11,8.2,C++,Competent
+STU_1281,4.0,246,72.6,32,13,9.4,Python,Competent
+STU_1282,2.4,196,63.1,31,8,5.9,Python,Competent
+STU_1283,1.2,124,45.9,16,7,5.7,Python,Needs Guidance
+STU_1284,2.7,142,63.4,30,5,4.4,Java,Competent
+STU_1285,1.6,91,62.7,11,8,5.7,Python,Needs Guidance
+STU_1286,1.7,116,52.9,22,8,5.7,Java,Competent
+STU_1287,3.0,151,69.4,6,6,5.7,Java,Needs Guidance
+STU_1288,4.1,263,54.2,35,11,7.6,Python,Competent
+STU_1289,2.2,169,49.3,11,6,5.8,Java,Needs Guidance
+STU_1290,2.6,190,63.8,37,7,5.9,Python,Competent
+STU_1291,5.2,310,70.9,50,12,6.9,Python,Exemplary
+STU_1292,2.5,212,58.4,30,6,4.7,C++,Competent
+STU_1293,8.0,450,86.5,74,15,9.1,Python,Exemplary
+STU_1294,3.0,215,68.6,22,6,5.3,Python,Needs Guidance
+STU_1295,0.9,135,65.9,30,4,5.3,Java,Needs Guidance
+STU_1296,3.2,197,62.1,38,7,5.0,C++,Competent
+STU_1297,2.7,148,64.7,26,9,6.1,Python,Exemplary
+STU_1298,4.2,239,62.4,46,9,7.5,Java,Competent
+STU_1299,3.1,201,79.8,21,6,5.3,Python,Exemplary
+STU_1300,2.1,171,54.9,17,6,5.7,Python,Needs Guidance
+STU_1301,1.2,147,76.6,13,6,5.0,Java,Needs Guidance
+STU_1302,2.0,163,61.1,19,5,5.2,Java,Needs Guidance
+STU_1303,1.5,136,48.1,11,4,4.4,Java,Needs Guidance
+STU_1304,1.7,143,70.5,31,10,7.0,C++,Competent
+STU_1305,3.0,165,62.0,27,7,4.6,JavaScript,Needs Guidance
+STU_1306,5.1,331,78.9,46,10,7.0,Java,Exemplary
+STU_1307,2.7,186,72.2,23,7,6.0,Python,Competent
+STU_1308,1.2,81,58.1,3,5,5.2,C++,Needs Guidance
+STU_1309,2.8,204,58.9,30,9,7.6,Python,Competent
+STU_1310,4.0,224,72.7,21,10,6.7,Python,Competent
+STU_1311,1.6,162,60.8,20,6,6.4,Python,Needs Guidance
+STU_1312,2.1,164,66.4,13,5,4.5,Python,Needs Guidance
+STU_1313,2.2,209,46.7,40,9,7.3,JavaScript,Needs Guidance
+STU_1314,1.5,163,64.4,27,6,5.8,C++,Competent
+STU_1315,3.1,220,59.6,31,11,6.3,Java,Competent
+STU_1316,2.1,167,74.4,34,4,5.0,Python,Needs Guidance
+STU_1317,2.7,190,67.7,21,8,6.0,Python,Competent
+STU_1318,1.4,95,58.3,23,9,6.6,Python,Competent
+STU_1319,1.8,170,65.2,23,6,5.1,Python,Competent
+STU_1320,3.2,185,54.3,33,8,6.0,Java,Competent
+STU_1321,1.8,171,74.4,32,7,6.6,C++,Competent
+STU_1322,5.3,304,86.2,50,10,7.2,Java,Competent
+STU_1323,1.8,160,63.8,24,6,5.9,Python,Competent
+STU_1324,2.5,145,72.4,13,6,5.2,JavaScript,Competent
+STU_1325,3.5,168,56.6,25,7,7.3,C++,Competent
+STU_1326,1.1,114,51.2,16,7,4.8,Java,Needs Guidance
+STU_1327,0.9,84,55.9,17,6,4.5,Java,Needs Guidance
+STU_1328,1.0,102,60.3,7,6,6.3,Python,Needs Guidance
+STU_1329,4.2,302,67.0,57,11,7.0,Python,Competent
+STU_1330,1.7,172,65.8,33,6,6.5,Python,Needs Guidance
+STU_1331,8.0,433,81.3,67,13,9.6,C++,Exemplary
+STU_1332,1.7,123,50.2,22,6,5.1,Python,Needs Guidance
+STU_1333,2.4,155,64.5,24,7,4.2,Python,Needs Guidance
+STU_1334,4.8,294,76.5,34,8,6.6,Python,Competent
+STU_1335,6.1,395,77.7,50,11,7.9,Python,Exemplary
+STU_1336,6.2,341,82.0,52,11,8.8,C++,Exemplary
+STU_1337,4.1,260,57.6,27,12,8.9,C++,Competent
+STU_1338,3.7,187,66.2,37,5,4.9,Java,Competent
+STU_1339,3.0,167,51.8,28,8,6.8,Python,Competent
+STU_1340,3.3,157,51.6,16,10,7.4,Java,Competent
+STU_1341,1.7,86,50.7,14,6,6.1,Java,Needs Guidance
+STU_1342,1.5,78,47.7,16,7,5.9,Python,Needs Guidance
+STU_1343,2.2,203,59.1,39,8,4.4,Python,Competent
+STU_1344,2.0,154,58.6,27,6,5.2,Python,Needs Guidance
+STU_1345,1.8,127,65.2,11,3,3.4,Java,Needs Guidance
+STU_1346,3.2,236,63.2,35,9,6.3,Java,Competent
+STU_1347,3.6,209,51.2,21,7,6.8,Python,Needs Guidance
+STU_1348,2.3,202,72.6,34,6,5.6,Python,Competent
+STU_1349,4.7,274,61.6,37,9,7.8,Java,Competent
+STU_1350,1.3,85,55.2,18,9,6.3,Java,Needs Guidance
+STU_1351,2.0,201,67.0,34,11,5.8,C++,Competent
+STU_1352,1.6,93,57.8,10,6,3.2,Java,Needs Guidance
+STU_1353,0.9,49,62.0,5,4,4.5,Python,Needs Guidance
+STU_1354,2.1,141,63.2,19,5,4.9,Python,Needs Guidance
+STU_1355,2.1,151,53.2,32,8,5.1,Java,Competent
+STU_1356,4.7,246,83.8,28,12,6.4,Python,Competent
+STU_1357,3.1,163,62.4,7,7,5.3,Java,Competent
+STU_1358,1.3,117,56.6,15,2,3.8,JavaScript,Needs Guidance
+STU_1359,5.6,316,78.8,51,12,8.5,Java,Exemplary
+STU_1360,4.1,263,69.5,46,11,7.5,Python,Competent
+STU_1361,3.0,219,67.8,26,5,6.5,Java,Competent
+STU_1362,2.0,156,80.3,20,7,4.8,Java,Needs Guidance
+STU_1363,1.4,192,60.6,28,7,6.2,Java,Needs Guidance
+STU_1364,1.8,138,56.7,7,6,5.3,JavaScript,Needs Guidance
+STU_1365,3.8,262,68.4,32,8,6.9,Python,Competent
+STU_1366,5.7,303,78.8,49,13,8.0,JavaScript,Exemplary
+STU_1367,4.8,316,59.0,45,10,8.1,JavaScript,Competent
+STU_1368,1.7,126,42.7,17,4,4.9,Python,Needs Guidance
+STU_1369,1.3,104,52.2,19,3,3.7,Python,Needs Guidance
+STU_1370,2.4,131,45.7,6,8,6.0,Python,Competent
+STU_1371,0.9,109,53.9,11,6,4.8,Python,Needs Guidance
+STU_1372,2.6,202,67.5,31,8,6.4,Python,Competent
+STU_1373,2.1,117,50.7,16,6,4.4,Java,Needs Guidance
+STU_1374,1.8,160,49.3,22,6,5.2,Python,Needs Guidance
+STU_1375,1.0,93,56.8,20,4,4.8,Python,Needs Guidance
+STU_1376,2.9,194,69.8,26,7,5.9,C++,Competent
+STU_1377,1.7,130,45.1,22,3,5.4,Python,Needs Guidance
+STU_1378,1.2,89,62.5,10,4,5.1,C++,Needs Guidance
+STU_1379,0.5,93,62.7,12,4,4.3,Python,Competent
+STU_1380,2.2,145,67.3,29,8,6.1,Python,Needs Guidance
+STU_1381,5.4,369,84.3,46,11,7.9,Java,Exemplary
+STU_1382,5.1,247,84.1,38,12,8.2,Java,Exemplary
+STU_1383,1.8,129,55.8,23,9,4.7,C++,Needs Guidance
+STU_1384,1.6,152,61.0,26,8,5.6,C++,Needs Guidance
+STU_1385,2.8,169,57.9,12,8,4.9,C++,Competent
+STU_1386,1.4,138,59.2,28,6,6.2,Python,Needs Guidance
+STU_1387,2.6,172,73.7,24,6,5.4,Python,Competent
+STU_1388,3.3,233,54.8,35,10,6.7,C++,Competent
+STU_1389,4.1,269,61.0,46,12,8.3,C++,Exemplary
+STU_1390,2.1,167,72.2,13,7,6.0,JavaScript,Needs Guidance
+STU_1391,2.0,158,68.7,17,9,5.3,Python,Needs Guidance
+STU_1392,1.4,138,56.3,17,4,4.5,Python,Needs Guidance
+STU_1393,1.5,87,62.6,13,4,4.3,C++,Needs Guidance
+STU_1394,2.0,179,64.7,37,9,4.8,Python,Competent
+STU_1395,2.7,163,72.9,21,8,5.5,JavaScript,Needs Guidance
+STU_1396,3.5,189,63.2,28,10,6.7,C++,Competent
+STU_1397,1.5,138,67.4,21,6,5.1,Python,Needs Guidance
+STU_1398,4.7,249,87.7,31,8,5.4,C++,Competent
+STU_1399,1.9,155,65.1,19,6,6.2,C++,Competent
+STU_1400,2.2,140,59.7,27,5,5.0,Python,Needs Guidance
+STU_1401,1.5,163,66.6,17,4,4.6,JavaScript,Needs Guidance
+STU_1402,0.7,63,51.3,14,7,5.6,Java,Needs Guidance
+STU_1403,3.5,222,83.9,29,10,6.2,C++,Competent
+STU_1404,3.2,204,65.0,19,8,6.6,Python,Exemplary
+STU_1405,1.9,137,56.9,25,4,4.4,C++,Needs Guidance
+STU_1406,2.3,218,57.8,39,7,5.0,Python,Competent
+STU_1407,2.9,165,69.8,29,6,6.0,Python,Competent
+STU_1408,1.0,141,66.3,18,7,6.5,JavaScript,Needs Guidance
+STU_1409,1.7,149,56.0,27,6,5.8,Python,Competent
+STU_1410,3.3,177,66.4,21,6,6.4,Python,Needs Guidance
+STU_1411,1.2,133,46.8,31,6,4.7,JavaScript,Needs Guidance
+STU_1412,2.6,205,65.1,29,7,4.5,JavaScript,Needs Guidance
+STU_1413,1.1,120,61.6,30,8,6.9,Java,Competent
+STU_1414,2.8,158,74.2,22,6,7.1,Java,Needs Guidance
+STU_1415,2.2,187,56.3,39,5,6.3,Python,Competent
+STU_1416,1.0,86,45.5,23,3,3.9,Python,Needs Guidance
+STU_1417,4.0,304,63.1,40,9,5.8,Python,Competent
+STU_1418,1.5,117,47.1,22,5,4.0,Java,Needs Guidance
+STU_1419,1.5,143,70.2,18,4,3.2,C++,Needs Guidance
+STU_1420,2.5,202,75.9,36,9,6.2,C++,Competent
+STU_1421,4.0,227,67.7,37,10,8.3,C++,Exemplary
+STU_1422,1.3,82,65.2,3,5,4.7,Python,Needs Guidance
+STU_1423,2.3,165,62.1,16,9,6.5,Java,Needs Guidance
+STU_1424,2.8,183,61.4,27,9,7.5,Python,Needs Guidance
+STU_1425,3.1,241,63.4,33,7,5.6,Java,Needs Guidance
+STU_1426,2.4,195,60.5,25,6,7.0,Python,Competent
+STU_1427,1.9,190,50.3,32,8,7.5,C++,Competent
+STU_1428,1.5,80,57.4,4,6,5.1,Python,Needs Guidance
+STU_1429,2.3,141,59.1,26,7,5.2,Python,Needs Guidance
+STU_1430,1.3,69,60.6,4,4,5.1,Python,Needs Guidance
+STU_1431,0.5,94,57.0,19,6,4.6,C++,Needs Guidance
+STU_1432,2.8,201,62.1,27,7,4.9,Java,Competent
+STU_1433,3.5,177,54.8,36,9,7.6,Python,Competent
+STU_1434,0.7,72,55.4,8,7,6.2,Python,Needs Guidance
+STU_1435,1.3,143,65.4,29,5,4.9,C++,Competent
+STU_1436,3.0,212,55.0,38,6,4.5,Python,Competent
+STU_1437,6.2,400,77.4,55,10,6.6,C++,Exemplary
+STU_1438,2.2,168,63.1,23,8,6.0,C++,Competent
+STU_1439,1.5,168,55.5,24,7,5.1,Python,Needs Guidance
+STU_1440,2.0,132,54.1,17,6,5.0,Python,Competent
+STU_1441,4.4,306,72.2,45,9,7.6,JavaScript,Competent
+STU_1442,1.6,202,54.4,34,7,6.1,Python,Needs Guidance
+STU_1443,1.5,177,64.6,28,5,6.0,Python,Needs Guidance
+STU_1444,1.7,95,49.2,15,7,4.7,C++,Needs Guidance
+STU_1445,1.4,121,66.6,22,5,4.6,JavaScript,Needs Guidance
+STU_1446,2.4,138,77.9,15,6,6.0,JavaScript,Competent
+STU_1447,5.0,321,64.5,47,10,7.6,C++,Exemplary
+STU_1448,2.6,206,68.0,31,7,7.0,Python,Competent
+STU_1449,2.0,97,50.7,8,6,5.6,Python,Needs Guidance
+STU_1450,1.9,127,66.8,13,7,7.1,C++,Needs Guidance
+STU_1451,1.0,45,42.9,14,1,4.0,Java,Needs Guidance
+STU_1452,3.5,255,70.8,30,7,6.8,Python,Exemplary
+STU_1453,2.1,121,51.1,14,6,5.1,JavaScript,Needs Guidance
+STU_1454,2.0,159,58.9,26,9,6.2,Python,Competent
+STU_1455,8.0,443,71.3,64,13,9.6,Java,Exemplary
+STU_1456,2.6,205,70.2,25,8,7.3,Python,Competent
+STU_1457,1.5,42,46.1,14,8,6.4,Java,Needs Guidance
+STU_1458,1.8,159,65.0,30,5,4.9,Python,Competent
+STU_1459,4.0,275,65.6,49,10,8.1,Python,Competent
+STU_1460,2.4,151,59.2,22,6,3.6,Python,Needs Guidance
+STU_1461,1.1,138,60.4,12,5,3.6,Java,Needs Guidance
+STU_1462,3.5,212,58.0,37,8,6.8,C++,Competent
+STU_1463,1.6,145,61.3,18,5,4.9,Java,Competent
+STU_1464,5.7,340,84.9,46,15,9.4,JavaScript,Exemplary
+STU_1465,3.8,285,62.8,41,10,7.0,Python,Competent
+STU_1466,1.8,90,65.4,6,8,6.3,Python,Competent
+STU_1467,4.2,264,79.6,48,11,6.7,C++,Competent
+STU_1468,2.3,195,56.5,26,5,5.5,Python,Competent
+STU_1469,3.4,223,53.2,29,9,7.3,JavaScript,Competent
+STU_1470,2.8,149,62.3,27,9,7.4,Python,Competent
+STU_1471,1.5,111,53.0,19,5,6.5,JavaScript,Needs Guidance
+STU_1472,1.6,111,72.3,7,7,5.7,Python,Needs Guidance
+STU_1473,3.7,282,69.1,46,10,7.1,C++,Competent
+STU_1474,1.9,130,52.2,23,9,5.0,Java,Needs Guidance
+STU_1475,1.8,75,45.8,25,6,4.8,JavaScript,Needs Guidance
+STU_1476,1.4,151,68.8,27,5,4.7,Python,Needs Guidance
+STU_1477,2.8,141,54.8,20,7,6.6,Java,Needs Guidance
+STU_1478,6.2,315,71.4,54,14,8.3,JavaScript,Exemplary
+STU_1479,1.3,40,60.3,16,3,4.9,Java,Needs Guidance
+STU_1480,2.3,201,59.5,32,4,4.8,Java,Competent
+STU_1481,4.5,239,65.6,22,9,6.7,Java,Competent
+STU_1482,2.1,148,59.7,23,6,5.5,Java,Competent
+STU_1483,2.8,213,69.7,23,8,5.8,Java,Competent
+STU_1484,1.3,140,64.1,22,7,5.1,Java,Needs Guidance
+STU_1485,2.8,239,64.2,32,7,4.4,JavaScript,Competent
+STU_1486,2.0,103,57.4,17,4,4.5,Python,Competent
+STU_1487,3.6,217,61.5,28,12,7.1,Python,Competent
+STU_1488,4.0,207,52.0,35,8,6.0,JavaScript,Competent
+STU_1489,8.0,425,80.4,55,12,8.9,C++,Exemplary
+STU_1490,3.0,208,79.0,36,10,7.3,Java,Competent
+STU_1491,2.6,189,55.5,24,7,5.9,Java,Competent
+STU_1492,2.5,125,52.1,3,7,6.5,Python,Needs Guidance
+STU_1493,1.9,154,53.3,19,7,6.0,Python,Needs Guidance
+STU_1494,2.6,180,67.8,19,9,6.1,Java,Needs Guidance
+STU_1495,1.9,170,64.9,9,6,4.9,Python,Competent
+STU_1496,2.4,141,58.1,16,9,6.6,Java,Competent
+STU_1497,4.3,243,58.9,39,6,6.3,Python,Competent
+STU_1498,1.3,145,60.4,29,7,6.5,JavaScript,Competent
+STU_1499,3.9,230,52.8,38,8,7.3,JavaScript,Needs Guidance
+STU_1500,4.3,290,70.5,33,11,6.9,Java,Exemplary
+STU_1501,2.1,156,67.4,27,7,5.5,Java,Competent
+STU_1502,0.8,70,44.7,12,4,4.9,Python,Needs Guidance
+STU_1503,1.6,107,44.9,15,7,6.4,C++,Needs Guidance
+STU_1504,4.3,262,80.1,29,11,8.1,Java,Exemplary
+STU_1505,2.2,125,53.4,10,7,5.6,Python,Needs Guidance
+STU_1506,1.4,98,65.6,16,4,3.5,JavaScript,Needs Guidance
+STU_1507,1.7,180,60.8,22,6,4.4,C++,Competent
+STU_1508,3.4,196,61.8,31,8,6.5,JavaScript,Competent
+STU_1509,2.9,190,66.2,26,8,6.4,C++,Competent
+STU_1510,2.0,149,52.9,15,8,5.0,Java,Competent
+STU_1511,1.9,115,58.7,27,4,4.7,Python,Needs Guidance
+STU_1512,1.8,129,55.5,11,7,6.1,JavaScript,Needs Guidance
+STU_1513,1.4,108,46.6,25,6,4.2,C++,Needs Guidance
+STU_1514,5.0,300,72.7,34,9,7.8,Python,Competent
+STU_1515,1.9,108,55.1,16,5,4.7,Python,Needs Guidance
+STU_1516,4.1,246,65.1,25,9,7.7,Python,Exemplary
+STU_1517,4.8,307,60.8,37,5,5.3,C++,Competent
+STU_1518,3.7,273,80.9,42,8,5.5,JavaScript,Competent
+STU_1519,1.8,156,67.4,26,5,4.6,Python,Competent
+STU_1520,2.7,196,70.8,35,9,6.3,Java,Competent
+STU_1521,2.2,154,57.8,28,6,5.0,Python,Needs Guidance
+STU_1522,1.4,138,45.4,10,5,4.7,JavaScript,Needs Guidance
+STU_1523,2.6,156,76.0,24,10,6.9,C++,Competent
+STU_1524,1.2,72,54.3,12,7,5.3,C++,Needs Guidance
+STU_1525,4.0,290,63.3,47,11,7.2,Java,Competent
+STU_1526,1.8,99,59.9,12,5,3.6,Python,Needs Guidance
+STU_1527,2.5,166,70.4,33,8,6.3,Python,Competent
+STU_1528,2.6,160,60.5,34,7,5.7,Python,Competent
+STU_1529,2.0,172,71.7,38,7,6.9,C++,Competent
+STU_1530,3.0,190,71.3,26,8,5.4,C++,Competent
+STU_1531,1.8,158,51.9,27,6,3.8,JavaScript,Competent
+STU_1532,3.4,283,63.5,50,11,7.6,JavaScript,Exemplary
+STU_1533,1.1,108,64.9,12,5,5.1,Java,Needs Guidance
+STU_1534,2.4,138,37.5,13,8,5.2,C++,Needs Guidance
+STU_1535,5.9,304,69.1,33,13,7.2,JavaScript,Competent
+STU_1536,1.3,141,48.0,24,8,7.0,C++,Competent
+STU_1537,1.6,129,54.8,5,4,5.7,Python,Competent
+STU_1538,2.9,192,60.4,26,8,4.1,Java,Competent
+STU_1539,2.4,166,58.2,29,9,5.9,Python,Needs Guidance
+STU_1540,2.7,163,56.4,29,9,7.7,JavaScript,Needs Guidance
+STU_1541,2.8,162,52.0,32,6,5.1,Java,Competent
+STU_1542,3.1,226,83.4,32,7,5.5,Python,Competent
+STU_1543,3.9,282,83.7,46,11,7.0,Java,Exemplary
+STU_1544,2.7,183,52.9,20,6,4.6,Java,Competent
+STU_1545,2.0,136,71.7,18,6,3.9,Python,Needs Guidance
+STU_1546,3.1,226,61.9,24,10,7.6,Python,Competent
+STU_1547,5.8,340,73.7,54,12,6.6,Java,Exemplary
+STU_1548,2.1,196,62.6,31,6,5.5,Java,Competent
+STU_1549,1.4,129,53.3,23,5,5.6,C++,Needs Guidance
+STU_1550,3.9,250,74.5,45,10,5.8,Java,Exemplary
+STU_1551,2.1,149,60.9,14,5,4.3,C++,Competent
+STU_1552,0.8,132,55.0,29,5,5.7,Java,Needs Guidance
+STU_1553,3.4,255,56.6,44,9,7.0,Java,Needs Guidance
+STU_1554,1.7,151,52.9,27,9,5.6,C++,Needs Guidance
+STU_1555,2.1,186,49.3,38,8,6.9,Python,Needs Guidance
+STU_1556,2.6,212,64.2,14,6,6.4,Python,Competent
+STU_1557,2.4,190,53.1,21,9,6.5,Python,Competent
+STU_1558,3.2,215,62.2,25,8,5.5,C++,Competent
+STU_1559,1.8,155,71.3,27,5,4.6,Java,Competent
+STU_1560,2.9,201,73.0,20,7,6.1,C++,Competent
+STU_1561,2.0,177,61.5,29,9,6.0,Python,Needs Guidance
+STU_1562,3.2,235,65.0,42,9,7.3,Python,Competent
+STU_1563,3.0,204,78.6,35,8,4.9,Python,Competent
+STU_1564,1.4,123,62.4,21,9,4.9,Python,Competent
+STU_1565,3.8,143,56.9,27,7,6.2,Java,Needs Guidance
+STU_1566,1.7,126,47.0,14,4,4.2,Python,Needs Guidance
+STU_1567,3.3,223,68.0,41,6,5.1,Python,Needs Guidance
+STU_1568,2.7,239,72.6,34,8,4.7,JavaScript,Needs Guidance
+STU_1569,5.6,328,66.8,46,11,7.7,Python,Competent
+STU_1570,2.0,114,59.9,20,9,6.2,Java,Needs Guidance
+STU_1571,1.9,108,54.3,6,6,5.8,C++,Needs Guidance
+STU_1572,2.2,116,56.3,16,6,5.4,Python,Needs Guidance
+STU_1573,1.9,192,42.9,38,7,5.5,Java,Needs Guidance
+STU_1574,3.3,199,61.5,21,8,7.2,C++,Needs Guidance
+STU_1575,1.0,129,66.4,18,3,3.1,JavaScript,Needs Guidance
+STU_1576,1.3,115,52.6,27,10,6.8,Python,Competent
+STU_1577,1.3,94,56.7,8,6,3.8,JavaScript,Needs Guidance
+STU_1578,3.6,199,57.2,35,9,5.9,Java,Competent
+STU_1579,5.2,342,75.7,51,12,6.9,Python,Competent
+STU_1580,2.1,169,59.5,24,8,6.6,Java,Competent
+STU_1581,2.0,214,56.8,46,7,5.5,JavaScript,Competent
+STU_1582,2.3,137,69.8,12,6,5.4,Java,Needs Guidance
+STU_1583,4.0,277,75.9,44,10,6.1,Python,Competent
+STU_1584,1.4,159,55.8,18,7,5.2,Java,Competent
+STU_1585,2.5,181,66.0,32,6,4.8,Python,Competent
+STU_1586,3.6,241,70.4,37,11,7.5,Python,Competent
+STU_1587,2.9,155,65.5,23,8,5.3,Python,Needs Guidance
+STU_1588,2.4,152,46.6,27,8,7.1,Python,Needs Guidance
+STU_1589,3.7,204,71.7,19,10,5.6,Python,Competent
+STU_1590,0.6,120,53.4,19,5,4.0,Python,Needs Guidance
+STU_1591,3.1,205,60.8,33,9,7.8,Java,Competent
+STU_1592,1.6,137,80.2,26,8,5.5,Python,Needs Guidance
+STU_1593,0.9,104,59.3,24,5,3.7,Python,Needs Guidance
+STU_1594,2.9,189,59.5,32,8,6.3,C++,Competent
+STU_1595,4.4,279,51.0,40,10,6.7,Java,Competent
+STU_1596,2.1,103,68.0,17,5,4.4,Java,Needs Guidance
+STU_1597,3.6,250,55.9,28,12,6.6,Python,Competent
+STU_1598,5.0,303,62.2,52,9,9.2,Python,Exemplary
+STU_1599,4.3,306,67.7,49,8,6.3,Python,Competent
+STU_1600,5.1,267,79.1,41,12,6.3,Python,Exemplary
+STU_1601,3.2,227,71.3,31,9,7.7,Python,Competent
+STU_1602,2.3,167,59.9,18,5,5.6,Python,Needs Guidance
+STU_1603,1.0,132,61.3,26,7,4.7,Python,Competent
+STU_1604,2.0,137,54.3,28,9,5.5,Python,Competent
+STU_1605,1.5,166,62.2,35,7,6.0,Java,Competent
+STU_1606,6.6,333,72.8,46,15,9.0,Python,Competent
+STU_1607,2.0,138,67.0,20,4,3.2,Python,Competent
+STU_1608,2.4,199,71.0,27,8,7.4,Java,Competent
+STU_1609,2.9,226,69.0,34,10,6.4,Java,Exemplary
+STU_1610,2.3,161,57.8,23,8,7.2,Python,Competent
+STU_1611,5.2,269,73.9,37,10,8.3,C++,Exemplary
+STU_1612,1.6,162,60.1,27,6,4.4,Java,Competent
+STU_1613,2.5,188,53.9,32,8,6.9,Python,Competent
+STU_1614,1.5,51,50.2,12,7,5.0,C++,Competent
+STU_1615,1.2,155,61.0,29,7,3.9,JavaScript,Needs Guidance
+STU_1616,1.6,151,67.3,30,8,5.5,Python,Needs Guidance
+STU_1617,2.2,192,61.3,25,6,5.7,Python,Needs Guidance
+STU_1618,1.8,114,47.9,22,6,4.9,C++,Needs Guidance
+STU_1619,1.6,62,54.6,25,5,4.7,C++,Needs Guidance
+STU_1620,1.1,97,57.4,10,5,5.7,Python,Needs Guidance
+STU_1621,2.1,164,62.4,24,8,6.0,Python,Needs Guidance
+STU_1622,1.0,25,59.0,1,5,4.1,Python,Needs Guidance
+STU_1623,3.3,205,71.8,38,12,8.0,Java,Exemplary
+STU_1624,2.3,206,59.0,12,7,5.8,Java,Competent
+STU_1625,1.1,125,53.4,29,6,3.1,Python,Needs Guidance
+STU_1626,1.9,159,52.3,20,7,5.9,Java,Competent
+STU_1627,1.5,106,62.7,18,5,5.2,C++,Needs Guidance
+STU_1628,2.6,117,69.4,22,7,5.8,Python,Needs Guidance
+STU_1629,4.4,259,64.7,36,11,8.1,Python,Competent
+STU_1630,0.9,114,55.7,27,6,4.5,C++,Needs Guidance
+STU_1631,2.4,117,69.5,6,5,5.4,C++,Needs Guidance
+STU_1632,2.1,175,65.7,34,6,4.1,Java,Competent
+STU_1633,3.1,218,68.0,33,8,6.5,Java,Competent
+STU_1634,2.5,151,50.5,17,7,7.3,Python,Competent
+STU_1635,1.5,75,60.4,11,8,5.0,Python,Needs Guidance
+STU_1636,1.9,188,55.1,36,5,4.4,Java,Needs Guidance
+STU_1637,1.5,60,44.9,12,5,4.3,Python,Needs Guidance
+STU_1638,3.8,167,58.4,25,9,6.8,Python,Competent
+STU_1639,2.2,198,58.5,33,5,4.2,Python,Competent
+STU_1640,5.8,356,72.0,50,10,7.8,Python,Exemplary
+STU_1641,2.2,143,48.0,17,6,6.0,Python,Needs Guidance
+STU_1642,1.6,100,64.3,22,5,5.3,Python,Needs Guidance
+STU_1643,1.0,65,63.4,8,6,3.6,Python,Needs Guidance
+STU_1644,0.9,110,41.8,25,5,5.5,Python,Needs Guidance
+STU_1645,1.0,80,63.2,25,5,5.5,C++,Needs Guidance
+STU_1646,2.5,167,54.6,31,8,6.7,Java,Needs Guidance
+STU_1647,2.9,218,71.4,32,11,7.3,Java,Competent
+STU_1648,1.0,169,60.7,31,8,5.8,C++,Needs Guidance
+STU_1649,3.5,215,64.6,33,6,6.5,Java,Competent
+STU_1650,1.7,135,57.5,12,7,7.1,Python,Needs Guidance
+STU_1651,2.4,130,68.4,29,7,4.9,Java,Competent
+STU_1652,5.0,351,63.5,59,11,8.4,Java,Exemplary
+STU_1653,3.5,187,67.3,25,8,6.2,C++,Competent
+STU_1654,1.9,146,68.5,19,7,5.5,Python,Needs Guidance
+STU_1655,1.4,121,63.8,22,6,3.9,Python,Needs Guidance
+STU_1656,0.8,124,76.9,15,4,4.2,Python,Needs Guidance
+STU_1657,1.6,93,52.0,13,5,4.1,Python,Needs Guidance
+STU_1658,2.0,186,70.1,32,6,4.9,Java,Competent
+STU_1659,1.4,156,59.6,38,7,4.6,Java,Competent
+STU_1660,2.1,155,70.2,25,8,5.6,Python,Needs Guidance
+STU_1661,2.3,146,59.7,18,8,5.7,JavaScript,Needs Guidance
+STU_1662,2.0,103,53.8,11,6,5.4,Java,Needs Guidance
+STU_1663,1.6,134,69.4,22,7,4.2,Python,Competent
+STU_1664,2.4,187,58.5,34,9,5.1,Python,Needs Guidance
+STU_1665,2.8,204,52.3,32,10,7.0,Python,Competent
+STU_1666,1.3,117,53.7,18,6,4.5,Python,Needs Guidance
+STU_1667,4.5,284,73.9,35,9,7.7,Python,Exemplary
+STU_1668,2.1,160,71.8,15,7,5.8,Python,Needs Guidance
+STU_1669,2.2,149,60.8,31,6,5.8,Python,Needs Guidance
+STU_1670,3.2,247,77.0,38,8,7.3,Python,Exemplary
+STU_1671,2.5,119,47.1,14,8,5.8,C++,Needs Guidance
+STU_1672,3.6,272,64.6,46,10,6.4,Python,Competent
+STU_1673,2.6,205,61.4,31,7,6.4,Java,Competent
+STU_1674,1.6,109,56.4,32,7,5.9,Python,Competent
+STU_1675,2.7,164,61.6,17,6,5.3,JavaScript,Needs Guidance
+STU_1676,1.3,81,60.9,8,7,6.5,Python,Needs Guidance
+STU_1677,2.3,144,56.0,24,7,5.5,Python,Needs Guidance
+STU_1678,2.2,202,64.6,28,7,5.7,JavaScript,Needs Guidance
+STU_1679,2.0,165,60.6,37,7,5.6,C++,Needs Guidance
+STU_1680,2.1,147,52.4,29,7,4.9,C++,Needs Guidance
+STU_1681,0.9,94,55.4,14,5,4.8,Python,Needs Guidance
+STU_1682,1.7,135,57.9,13,7,6.6,Python,Needs Guidance
+STU_1683,2.3,184,60.9,35,7,6.0,Java,Competent
+STU_1684,2.4,183,62.5,18,9,6.3,JavaScript,Competent
+STU_1685,1.3,157,61.1,31,9,5.9,Java,Needs Guidance
+STU_1686,4.2,200,59.9,35,8,6.7,Java,Competent
+STU_1687,1.4,136,69.2,32,7,6.0,Python,Competent
+STU_1688,3.6,228,55.8,39,8,6.8,C++,Competent
+STU_1689,2.8,199,57.5,27,7,5.5,Python,Needs Guidance
+STU_1690,1.6,56,76.0,16,9,6.4,Python,Needs Guidance
+STU_1691,5.4,375,66.7,42,10,7.7,Python,Exemplary
+STU_1692,1.2,131,47.9,21,6,4.3,Java,Needs Guidance
+STU_1693,3.5,229,71.1,33,9,6.7,Python,Competent
+STU_1694,3.7,253,50.2,29,7,4.3,Python,Needs Guidance
+STU_1695,1.6,186,60.5,19,5,5.3,Java,Needs Guidance
+STU_1696,4.5,297,87.0,40,8,7.1,Python,Exemplary
+STU_1697,2.0,137,46.8,6,5,5.6,Java,Needs Guidance
+STU_1698,2.6,192,46.9,31,3,4.2,Python,Competent
+STU_1699,2.5,154,48.3,18,8,6.3,Java,Needs Guidance
+STU_1700,2.1,122,65.3,14,10,7.7,Java,Needs Guidance
+STU_1701,3.3,164,69.9,18,8,7.4,Python,Needs Guidance
+STU_1702,3.3,166,57.0,17,6,5.6,Python,Needs Guidance
+STU_1703,0.9,39,58.1,5,4,4.5,Python,Needs Guidance
+STU_1704,4.3,249,77.7,32,9,7.7,Python,Competent
+STU_1705,1.0,93,70.5,32,5,3.5,JavaScript,Competent
+STU_1706,3.7,230,63.4,30,10,6.7,Python,Competent
+STU_1707,3.9,247,48.1,37,10,8.0,C++,Competent
+STU_1708,1.3,128,52.0,22,4,5.3,Python,Needs Guidance
+STU_1709,1.8,131,55.3,23,8,6.1,Java,Competent
+STU_1710,1.3,192,60.7,18,8,4.5,C++,Competent
+STU_1711,2.0,163,59.4,13,9,6.2,Java,Competent
+STU_1712,1.9,140,68.3,34,11,6.3,Java,Competent
+STU_1713,3.3,253,77.1,46,7,6.2,Python,Competent
+STU_1714,4.3,218,63.2,24,13,7.3,Python,Exemplary
+STU_1715,4.5,230,74.1,31,9,6.0,JavaScript,Competent
+STU_1716,1.7,98,59.4,19,5,3.3,C++,Needs Guidance
+STU_1717,2.0,144,60.1,15,7,6.6,JavaScript,Competent
+STU_1718,1.0,94,63.5,21,5,4.4,Python,Needs Guidance
+STU_1719,1.5,137,59.7,14,7,5.6,C++,Needs Guidance
+STU_1720,3.6,293,86.0,51,7,6.0,JavaScript,Competent
+STU_1721,5.0,354,62.1,52,10,6.4,Python,Competent
+STU_1722,1.2,95,52.2,20,8,4.7,Python,Needs Guidance
+STU_1723,1.7,165,60.0,29,7,4.7,C++,Competent
+STU_1724,2.2,195,66.5,33,8,5.4,Java,Competent
+STU_1725,2.6,158,70.7,22,8,6.3,C++,Competent
+STU_1726,1.5,92,55.9,13,8,5.1,Python,Needs Guidance
+STU_1727,2.8,232,54.1,29,5,6.6,C++,Needs Guidance
+STU_1728,1.8,162,67.5,29,8,6.7,Python,Competent
+STU_1729,2.2,178,67.9,25,7,6.3,Python,Competent
+STU_1730,2.9,146,44.2,16,8,6.0,Python,Needs Guidance
+STU_1731,2.2,116,57.7,18,8,7.2,C++,Competent
+STU_1732,1.8,125,45.6,21,5,4.8,Java,Needs Guidance
+STU_1733,2.1,151,54.7,23,5,5.0,Java,Needs Guidance
+STU_1734,2.1,163,53.6,39,4,4.9,Python,Needs Guidance
+STU_1735,1.8,117,64.3,11,5,5.5,C++,Needs Guidance
+STU_1736,2.0,117,58.7,27,9,6.7,Python,Needs Guidance
+STU_1737,4.9,292,59.2,54,11,7.1,C++,Competent
+STU_1738,2.9,252,73.8,47,6,5.1,Python,Competent
+STU_1739,1.9,153,48.7,19,6,5.8,Python,Needs Guidance
+STU_1740,3.2,209,66.6,35,6,6.2,Java,Competent
+STU_1741,1.9,130,52.2,27,5,4.7,Python,Needs Guidance
+STU_1742,4.0,228,62.3,38,10,5.7,C++,Competent
+STU_1743,2.7,175,65.7,27,6,5.3,Java,Competent
+STU_1744,2.1,179,66.1,27,9,6.7,Python,Competent
+STU_1745,2.8,169,72.0,8,7,7.2,C++,Needs Guidance
+STU_1746,1.0,101,56.1,22,6,4.1,Python,Needs Guidance
+STU_1747,1.3,88,58.3,19,6,4.8,Java,Needs Guidance
+STU_1748,1.2,114,54.1,16,7,5.1,JavaScript,Needs Guidance
+STU_1749,2.4,186,63.9,42,9,7.4,Java,Competent
+STU_1750,5.3,288,72.7,39,11,7.6,Python,Exemplary
+STU_1751,6.8,413,76.7,51,13,7.9,JavaScript,Exemplary
+STU_1752,3.1,260,52.9,46,8,6.6,Java,Needs Guidance
+STU_1753,2.9,184,64.9,22,8,5.8,Python,Competent
+STU_1754,0.9,54,56.5,11,5,3.7,Python,Needs Guidance
+STU_1755,1.7,139,53.8,20,6,4.5,C++,Needs Guidance
+STU_1756,1.5,166,50.8,26,6,6.6,Java,Needs Guidance
+STU_1757,1.6,125,70.1,22,6,5.5,Java,Needs Guidance
+STU_1758,2.0,162,64.7,13,5,5.1,C++,Needs Guidance
+STU_1759,1.8,163,59.0,17,7,5.4,C++,Needs Guidance
+STU_1760,0.8,122,49.0,10,7,5.5,Python,Competent
+STU_1761,3.2,216,57.8,30,10,7.0,Python,Needs Guidance
+STU_1762,1.3,139,69.7,22,4,4.8,Python,Competent
+STU_1763,2.5,219,65.7,30,9,6.4,C++,Competent
+STU_1764,6.3,343,68.5,37,11,8.6,Python,Exemplary
+STU_1765,1.4,128,62.6,28,7,5.5,Java,Needs Guidance
+STU_1766,0.6,75,48.5,16,4,3.6,C++,Needs Guidance
+STU_1767,1.9,175,73.7,33,7,5.1,C++,Competent
+STU_1768,3.9,220,75.5,39,10,5.4,Python,Competent
+STU_1769,5.9,358,70.1,57,10,9.1,C++,Exemplary
+STU_1770,1.2,148,54.8,22,7,6.1,Python,Needs Guidance
+STU_1771,2.9,165,40.1,40,10,6.1,C++,Competent
+STU_1772,1.8,189,50.7,26,6,5.0,Python,Needs Guidance
+STU_1773,2.1,182,51.4,23,9,5.7,Python,Competent
+STU_1774,8.0,450,81.1,80,14,10.0,C++,Exemplary
+STU_1775,1.0,131,56.1,24,7,4.2,Python,Needs Guidance
+STU_1776,2.5,186,51.6,31,4,4.9,Python,Competent
+STU_1777,2.8,198,61.0,18,11,6.9,C++,Competent
+STU_1778,3.8,240,70.0,24,11,7.9,C++,Needs Guidance
+STU_1779,2.3,135,63.2,27,7,5.6,Java,Competent
+STU_1780,2.6,197,47.9,28,5,3.7,Java,Needs Guidance
+STU_1781,1.8,125,57.3,17,7,5.3,Java,Needs Guidance
+STU_1782,2.5,179,50.9,27,5,4.3,Python,Competent
+STU_1783,1.9,155,67.5,35,8,5.9,Python,Competent
+STU_1784,3.0,256,73.3,35,9,7.6,Python,Exemplary
+STU_1785,1.9,151,52.9,13,5,3.6,JavaScript,Competent
+STU_1786,2.7,165,54.9,27,9,5.7,Java,Needs Guidance
+STU_1787,2.2,113,53.8,18,8,5.5,Python,Competent
+STU_1788,3.9,227,47.1,32,10,6.7,Java,Competent
+STU_1789,2.2,164,63.6,21,7,6.2,JavaScript,Competent
+STU_1790,0.9,94,54.1,12,3,4.0,Python,Needs Guidance
+STU_1791,4.2,268,75.6,27,11,7.7,Java,Exemplary
+STU_1792,1.4,138,50.4,18,6,4.6,Java,Needs Guidance
+STU_1793,1.6,145,54.7,16,4,4.8,Java,Needs Guidance
+STU_1794,1.7,100,44.6,1,8,6.4,Python,Needs Guidance
+STU_1795,4.4,270,60.0,55,13,7.4,C++,Exemplary
+STU_1796,0.8,106,47.6,24,6,5.6,JavaScript,Needs Guidance
+STU_1797,8.0,450,88.0,59,15,9.5,Java,Exemplary
+STU_1798,3.8,239,60.3,35,9,7.5,Java,Competent
+STU_1799,2.5,167,62.1,17,6,5.3,JavaScript,Needs Guidance
+STU_1800,2.2,183,59.2,38,7,6.0,C++,Needs Guidance
+STU_1801,2.6,188,52.4,42,10,6.6,Python,Needs Guidance
+STU_1802,2.9,194,61.6,30,7,5.7,Java,Needs Guidance
+STU_1803,3.1,230,70.1,38,9,6.7,Java,Competent
+STU_1804,2.9,181,52.4,30,7,6.3,Python,Competent
+STU_1805,2.3,135,65.5,14,6,4.4,C++,Needs Guidance
+STU_1806,2.0,121,51.3,20,8,7.0,JavaScript,Needs Guidance
+STU_1807,2.1,186,58.5,25,6,3.8,JavaScript,Needs Guidance
+STU_1808,2.0,134,63.2,19,6,4.8,Java,Competent
+STU_1809,3.9,278,63.2,34,11,7.2,Python,Competent
+STU_1810,3.0,237,66.1,29,10,7.1,JavaScript,Competent
+STU_1811,0.5,74,52.4,13,6,6.2,C++,Needs Guidance
+STU_1812,3.1,181,63.1,31,7,4.4,Python,Competent
+STU_1813,2.5,105,38.0,18,6,5.0,JavaScript,Needs Guidance
+STU_1814,2.2,112,42.8,19,7,3.9,C++,Needs Guidance
+STU_1815,1.8,83,60.5,11,7,5.6,Java,Needs Guidance
+STU_1816,3.9,296,78.0,43,8,6.6,Java,Exemplary
+STU_1817,3.6,196,55.8,17,9,7.9,Python,Competent
+STU_1818,1.5,156,58.4,29,7,5.6,Python,Competent
+STU_1819,2.7,155,62.7,39,5,6.0,Python,Competent
+STU_1820,1.4,86,61.3,17,5,5.3,C++,Needs Guidance
+STU_1821,1.1,93,40.0,1,4,4.1,Python,Needs Guidance
+STU_1822,1.6,133,51.8,18,6,4.1,Python,Needs Guidance
+STU_1823,3.4,216,61.7,32,11,7.4,Python,Competent
+STU_1824,3.6,225,70.6,25,9,5.4,Java,Competent
+STU_1825,2.9,227,85.1,25,6,6.6,JavaScript,Competent
+STU_1826,3.2,231,63.6,43,9,6.4,Python,Exemplary
+STU_1827,2.9,208,52.6,34,8,7.1,Python,Competent
+STU_1828,1.6,119,61.2,13,7,5.1,C++,Needs Guidance
+STU_1829,2.8,221,75.3,15,8,6.3,Java,Competent
+STU_1830,3.3,157,61.3,29,10,7.0,Python,Competent
+STU_1831,3.2,223,57.6,29,8,6.2,Java,Competent
+STU_1832,4.0,255,74.7,40,12,7.3,Python,Competent
+STU_1833,3.2,216,69.7,27,9,6.8,Python,Competent
+STU_1834,2.7,178,53.7,32,7,5.0,Java,Needs Guidance
+STU_1835,3.8,272,71.2,50,13,6.9,Python,Exemplary
+STU_1836,2.2,193,70.8,31,8,6.9,JavaScript,Competent
+STU_1837,1.4,199,72.7,19,5,5.4,Python,Competent
+STU_1838,2.1,172,60.9,22,9,6.3,Java,Competent
+STU_1839,1.5,99,53.7,17,9,7.4,Java,Needs Guidance
+STU_1840,1.6,141,69.2,30,7,5.3,Python,Needs Guidance
+STU_1841,2.1,134,49.3,19,6,6.4,Java,Needs Guidance
+STU_1842,1.5,82,59.0,20,6,5.3,Python,Needs Guidance
+STU_1843,1.9,139,48.3,23,8,5.1,JavaScript,Competent
+STU_1844,0.9,106,65.6,12,7,6.8,Python,Competent
+STU_1845,2.5,119,55.9,15,8,6.8,Python,Needs Guidance
+STU_1846,2.2,193,73.0,27,7,5.6,Python,Competent
+STU_1847,1.5,136,63.0,19,8,6.4,JavaScript,Needs Guidance
+STU_1848,3.1,195,53.2,34,8,5.9,Java,Competent
+STU_1849,3.6,216,75.8,29,10,7.6,Java,Competent
+STU_1850,1.0,162,73.2,26,5,2.8,Python,Needs Guidance
+STU_1851,1.5,129,65.7,13,7,4.7,C++,Needs Guidance
+STU_1852,1.5,155,54.2,33,6,6.0,Python,Needs Guidance
+STU_1853,1.4,84,53.2,5,5,4.7,C++,Needs Guidance
+STU_1854,3.4,230,66.5,36,8,6.4,Python,Competent
+STU_1855,2.0,147,54.2,27,9,5.1,Python,Needs Guidance
+STU_1856,1.9,79,68.8,16,5,6.5,Python,Needs Guidance
+STU_1857,0.8,151,61.2,19,4,5.4,Java,Needs Guidance
+STU_1858,3.1,230,43.7,40,12,7.2,Java,Needs Guidance
+STU_1859,1.2,84,58.3,1,7,5.1,Python,Needs Guidance
+STU_1860,2.3,173,58.7,29,4,5.6,C++,Competent
+STU_1861,2.6,118,57.3,7,6,7.0,Java,Needs Guidance
+STU_1862,4.4,248,63.6,31,7,7.0,Java,Competent
+STU_1863,1.2,100,63.1,31,5,6.5,Python,Competent
+STU_1864,0.5,124,67.2,9,1,2.7,Python,Needs Guidance
+STU_1865,2.4,118,60.1,16,7,5.0,Java,Competent
+STU_1866,5.5,294,66.9,44,9,6.1,Python,Exemplary
+STU_1867,4.1,279,68.3,53,10,7.4,Python,Competent
+STU_1868,2.5,176,61.9,12,4,5.0,C++,Needs Guidance
+STU_1869,1.7,118,51.4,13,6,5.1,JavaScript,Needs Guidance
+STU_1870,3.3,209,68.6,43,8,6.9,Python,Competent
+STU_1871,1.4,185,66.0,34,9,7.0,Python,Competent
+STU_1872,2.8,206,76.1,27,10,5.5,Java,Needs Guidance
+STU_1873,2.9,187,72.5,19,9,5.9,Python,Competent
+STU_1874,3.8,293,64.0,51,9,7.3,Python,Competent
+STU_1875,8.0,450,86.6,75,15,9.1,Python,Exemplary
+STU_1876,2.7,252,59.2,33,5,4.5,C++,Competent
+STU_1877,1.7,105,62.6,15,4,5.4,Java,Needs Guidance
+STU_1878,2.2,200,59.2,24,7,4.6,Python,Competent
+STU_1879,0.9,104,48.7,15,9,5.7,Python,Needs Guidance
+STU_1880,1.6,149,62.2,23,6,5.5,Python,Needs Guidance
+STU_1881,1.8,123,36.8,33,7,5.1,Java,Needs Guidance
+STU_1882,1.7,147,45.8,28,4,5.3,Python,Needs Guidance
+STU_1883,2.4,131,57.3,17,8,5.5,Python,Competent
+STU_1884,1.5,171,62.1,31,8,6.9,C++,Competent
+STU_1885,3.9,277,65.5,38,10,6.9,Python,Exemplary
+STU_1886,2.2,121,45.4,30,6,5.9,Java,Competent
+STU_1887,2.2,186,55.9,36,6,5.9,Python,Needs Guidance
+STU_1888,1.9,153,63.3,13,4,4.2,Python,Needs Guidance
+STU_1889,2.4,164,65.6,25,7,4.1,Python,Competent
+STU_1890,3.4,229,65.1,28,7,6.2,C++,Competent
+STU_1891,1.4,103,66.1,7,4,4.6,C++,Needs Guidance
+STU_1892,1.6,145,62.8,23,6,5.6,C++,Needs Guidance
+STU_1893,1.9,182,56.2,42,7,5.4,Python,Competent
+STU_1894,1.1,42,50.6,2,4,4.1,Java,Needs Guidance
+STU_1895,1.5,96,45.2,19,7,7.1,Python,Needs Guidance
+STU_1896,1.8,170,60.5,27,7,4.4,Python,Needs Guidance
+STU_1897,3.4,222,73.7,33,8,6.8,C++,Competent
+STU_1898,2.5,169,66.7,25,8,5.6,Python,Needs Guidance
+STU_1899,2.5,142,70.7,16,6,5.2,Python,Competent
+STU_1900,3.4,216,62.0,34,9,6.3,Python,Competent
+STU_1901,2.1,169,72.0,18,7,5.0,Python,Needs Guidance
+STU_1902,2.7,138,57.7,10,5,5.6,Python,Needs Guidance
+STU_1903,2.1,143,71.3,33,9,7.3,Java,Competent
+STU_1904,2.5,211,63.9,34,6,5.8,Python,Competent
+STU_1905,1.7,131,64.4,21,7,5.6,C++,Needs Guidance
+STU_1906,0.7,90,67.8,16,7,4.5,C++,Needs Guidance
+STU_1907,2.1,214,62.7,32,9,6.6,Python,Competent
+STU_1908,4.5,277,70.2,41,10,8.9,Python,Exemplary
+STU_1909,3.5,248,76.8,40,8,6.0,Python,Competent
+STU_1910,3.6,195,61.9,31,10,6.6,Java,Competent
+STU_1911,4.1,271,57.5,47,11,6.9,Python,Competent
+STU_1912,2.3,187,79.6,28,6,5.0,Java,Needs Guidance
+STU_1913,2.5,140,55.6,28,6,3.2,Python,Needs Guidance
+STU_1914,1.6,113,58.8,10,3,4.6,Java,Needs Guidance
+STU_1915,1.9,154,69.5,25,7,4.9,Python,Competent
+STU_1916,3.0,187,57.6,23,8,4.9,Python,Needs Guidance
+STU_1917,4.1,270,59.9,32,11,7.9,JavaScript,Competent
+STU_1918,2.1,149,62.0,17,7,4.8,C++,Needs Guidance
+STU_1919,1.8,159,46.3,13,8,5.6,Python,Competent
+STU_1920,2.2,172,59.2,41,7,6.8,C++,Competent
+STU_1921,3.0,226,67.0,40,10,5.6,Java,Exemplary
+STU_1922,1.1,143,57.4,33,5,3.5,C++,Needs Guidance
+STU_1923,0.7,39,40.3,5,6,5.2,C++,Needs Guidance
+STU_1924,1.7,162,73.6,22,4,5.5,Python,Competent
+STU_1925,1.2,146,60.6,7,6,3.8,Python,Needs Guidance
+STU_1926,1.7,122,69.6,15,3,4.7,Python,Needs Guidance
+STU_1927,2.1,151,58.0,16,6,5.8,Java,Needs Guidance
+STU_1928,1.8,166,54.0,32,8,4.2,Java,Needs Guidance
+STU_1929,4.6,255,69.2,37,9,7.5,Python,Exemplary
+STU_1930,2.6,152,58.4,35,6,6.2,Python,Competent
+STU_1931,2.6,174,52.2,32,9,6.1,C++,Competent
+STU_1932,3.0,206,75.5,48,8,7.2,JavaScript,Competent
+STU_1933,1.3,134,54.0,7,5,5.7,Java,Needs Guidance
+STU_1934,3.7,253,52.1,44,9,6.7,Python,Competent
+STU_1935,2.1,167,71.8,33,11,6.5,Python,Competent
+STU_1936,3.1,209,59.9,22,10,6.0,Python,Needs Guidance
+STU_1937,1.3,107,52.3,27,8,5.7,JavaScript,Needs Guidance
+STU_1938,1.0,88,41.7,19,6,5.5,Python,Needs Guidance
+STU_1939,3.3,213,78.1,30,9,6.3,Java,Competent
+STU_1940,2.7,196,52.8,21,4,3.1,Python,Needs Guidance
+STU_1941,1.4,120,58.5,13,5,5.9,Java,Needs Guidance
+STU_1942,1.4,162,68.1,35,6,5.3,Java,Needs Guidance
+STU_1943,3.9,245,69.7,35,6,5.5,C++,Competent
+STU_1944,1.2,135,58.5,24,4,5.2,Python,Needs Guidance
+STU_1945,5.1,295,56.1,37,7,7.6,Python,Competent
+STU_1946,1.4,82,49.0,13,6,2.9,Python,Needs Guidance
+STU_1947,3.1,225,66.5,39,10,7.1,JavaScript,Competent
+STU_1948,1.9,96,50.1,12,8,4.7,C++,Needs Guidance
+STU_1949,3.0,194,64.6,26,8,6.5,Java,Needs Guidance
+STU_1950,1.7,124,63.7,21,5,5.0,Java,Needs Guidance
+STU_1951,2.1,222,72.5,25,4,5.2,Java,Competent
+STU_1952,2.3,162,51.0,24,4,4.4,Python,Needs Guidance
+STU_1953,1.3,89,73.5,22,4,3.0,JavaScript,Needs Guidance
+STU_1954,3.2,218,70.7,36,7,5.5,Python,Competent
+STU_1955,1.7,162,60.8,27,6,5.6,Python,Competent
+STU_1956,2.0,175,70.4,15,5,5.8,Java,Competent
+STU_1957,1.4,102,75.7,17,6,4.2,Python,Needs Guidance
+STU_1958,0.6,62,42.6,23,5,5.5,Python,Needs Guidance
+STU_1959,2.0,186,60.6,30,7,5.1,C++,Competent
+STU_1960,7.4,358,54.8,47,15,9.6,Python,Exemplary
+STU_1961,3.3,209,65.5,34,7,5.5,Java,Competent
+STU_1962,2.2,118,60.8,8,7,5.8,Python,Needs Guidance
+STU_1963,2.0,149,59.6,23,7,6.3,Python,Competent
+STU_1964,2.3,216,59.2,40,7,4.7,Python,Competent
+STU_1965,2.9,161,44.3,21,9,5.9,Python,Competent
+STU_1966,1.2,89,58.9,11,7,5.5,C++,Needs Guidance
+STU_1967,3.9,256,78.7,41,8,8.3,Python,Competent
+STU_1968,3.2,185,57.6,18,8,5.5,Java,Needs Guidance
+STU_1969,3.2,202,67.0,26,8,7.8,Java,Competent
+STU_1970,2.8,212,51.6,33,7,7.4,Java,Needs Guidance
+STU_1971,2.2,170,65.0,19,8,5.9,JavaScript,Competent
+STU_1972,3.1,210,60.9,28,8,5.9,C++,Competent
+STU_1973,3.0,223,58.8,35,11,6.5,Python,Competent
+STU_1974,1.9,114,51.5,26,4,4.6,Python,Needs Guidance
+STU_1975,1.7,141,56.3,23,6,4.1,Python,Needs Guidance
+STU_1976,2.3,171,64.5,22,6,5.3,Java,Needs Guidance
+STU_1977,4.8,313,60.4,44,11,8.7,Python,Competent
+STU_1978,1.2,92,53.0,17,3,3.7,Java,Needs Guidance
+STU_1979,1.1,98,56.2,21,6,4.9,Java,Needs Guidance
+STU_1980,2.4,148,51.1,22,6,4.0,Python,Needs Guidance
+STU_1981,2.3,175,76.0,23,6,5.7,C++,Competent
+STU_1982,2.4,179,55.1,18,5,5.3,Python,Needs Guidance
+STU_1983,2.5,165,55.6,26,7,5.8,Python,Competent
+STU_1984,2.0,160,52.8,17,8,5.7,C++,Competent
+STU_1985,4.7,268,82.3,32,10,6.9,Java,Exemplary
+STU_1986,1.0,104,61.4,19,7,5.8,Java,Needs Guidance
+STU_1987,1.5,123,50.7,21,9,6.1,Python,Needs Guidance
+STU_1988,2.1,188,71.4,30,7,5.9,Python,Needs Guidance
+STU_1989,1.0,102,58.4,13,5,4.9,C++,Needs Guidance
+STU_1990,2.0,214,66.3,26,8,6.8,C++,Competent
+STU_1991,5.1,293,66.8,48,10,7.8,Java,Competent
+STU_1992,2.2,182,56.1,28,6,5.5,Python,Needs Guidance
+STU_1993,2.5,148,62.6,20,5,6.3,Java,Needs Guidance
+STU_1994,1.2,92,51.8,19,7,5.7,Python,Needs Guidance
+STU_1995,1.6,136,73.6,23,6,6.2,Python,Competent
+STU_1996,1.8,145,49.5,22,7,6.0,JavaScript,Needs Guidance
+STU_1997,1.9,183,74.5,6,5,3.5,Python,Needs Guidance
+STU_1998,4.2,258,66.3,39,10,8.1,JavaScript,Exemplary
+STU_1999,2.9,207,66.2,47,7,5.9,Python,Exemplary
+STU_2000,1.3,118,64.5,16,6,5.1,Python,Competent
+STU_2001,2.5,110,52.3,20,8,6.3,Java,Needs Guidance
+STU_2002,2.9,200,70.2,32,9,6.1,C++,Needs Guidance
+STU_2003,3.9,251,45.1,38,9,6.9,C++,Exemplary
+STU_2004,4.9,334,66.5,51,8,6.2,C++,Exemplary
+STU_2005,1.3,117,50.4,8,10,7.3,Java,Needs Guidance
+STU_2006,1.5,127,48.4,26,9,6.0,Java,Needs Guidance
+STU_2007,1.2,119,56.2,23,7,5.1,C++,Competent
+STU_2008,2.0,129,61.7,22,6,4.6,Python,Needs Guidance
+STU_2009,2.8,168,66.8,31,8,6.3,Java,Competent
+STU_2010,3.6,256,69.0,42,8,6.4,Python,Exemplary
+STU_2011,2.1,140,54.0,31,9,6.5,JavaScript,Competent
+STU_2012,1.9,115,60.6,13,7,4.8,JavaScript,Needs Guidance
+STU_2013,2.4,160,61.7,32,6,4.1,Python,Needs Guidance
+STU_2014,1.5,138,66.7,19,5,5.4,C++,Competent
+STU_2015,6.3,410,83.5,52,14,10.0,JavaScript,Exemplary
+STU_2016,1.0,70,54.9,17,8,4.8,Python,Needs Guidance
+STU_2017,2.4,120,50.8,24,9,7.6,Java,Competent
+STU_2018,6.1,370,69.4,59,13,8.7,JavaScript,Exemplary
+STU_2019,2.2,160,56.3,24,7,5.6,Python,Needs Guidance
+STU_2020,2.0,136,56.5,14,2,3.8,Java,Needs Guidance
+STU_2021,1.9,127,60.6,19,7,4.5,Python,Needs Guidance
+STU_2022,2.0,148,65.6,24,7,6.4,JavaScript,Competent
+STU_2023,4.4,299,69.5,48,10,6.5,JavaScript,Competent
+STU_2024,0.7,122,58.3,19,5,4.1,JavaScript,Needs Guidance
+STU_2025,4.8,224,66.1,34,8,7.4,Java,Competent
+STU_2026,1.1,141,55.3,37,7,3.9,C++,Competent
+STU_2027,1.9,155,52.9,24,8,4.7,C++,Competent
+STU_2028,1.8,140,45.3,32,8,5.8,Python,Competent
+STU_2029,3.0,240,60.4,28,9,6.7,C++,Needs Guidance
+STU_2030,1.0,95,60.1,21,7,5.7,Python,Needs Guidance
+STU_2031,2.8,204,58.0,35,7,5.6,Java,Competent
+STU_2032,6.1,387,73.9,59,12,10.0,Python,Exemplary
+STU_2033,1.1,111,61.1,26,6,4.9,Python,Needs Guidance
+STU_2034,2.4,140,63.5,33,8,5.8,Python,Needs Guidance
+STU_2035,1.6,115,49.0,18,8,5.2,Java,Needs Guidance
+STU_2036,2.8,207,71.8,24,9,6.5,Python,Needs Guidance
+STU_2037,2.2,158,69.6,27,10,7.0,C++,Competent
+STU_2038,1.6,126,49.4,28,10,7.4,Python,Competent
+STU_2039,2.8,208,57.3,26,8,4.9,Python,Competent
+STU_2040,5.5,333,81.7,54,6,6.0,Java,Exemplary
+STU_2041,2.0,164,59.8,35,9,6.6,C++,Needs Guidance
+STU_2042,3.2,196,45.3,23,7,6.4,Python,Needs Guidance
+STU_2043,1.2,115,46.5,11,4,4.5,Java,Needs Guidance
+STU_2044,1.4,178,59.9,18,5,5.3,C++,Competent
+STU_2045,2.8,217,55.2,31,7,5.2,Java,Competent
+STU_2046,4.7,303,66.9,36,11,8.7,Python,Exemplary
+STU_2047,2.7,195,63.3,38,6,6.3,Python,Competent
+STU_2048,1.9,128,70.2,26,5,3.9,C++,Competent
+STU_2049,2.2,164,58.6,25,8,5.1,Python,Competent
+STU_2050,1.2,88,64.4,6,6,4.3,C++,Needs Guidance
+STU_2051,3.0,150,71.4,19,9,7.0,Java,Competent
+STU_2052,3.5,225,76.5,35,7,4.9,JavaScript,Competent
+STU_2053,1.8,114,59.9,5,4,4.4,C++,Needs Guidance
+STU_2054,1.8,168,45.5,30,6,5.6,JavaScript,Needs Guidance
+STU_2055,2.5,185,66.0,25,8,6.0,Python,Competent
+STU_2056,1.8,206,72.1,48,10,6.7,C++,Competent
+STU_2057,2.2,189,62.0,43,5,4.2,Python,Competent
+STU_2058,6.4,351,87.4,50,12,8.7,Java,Exemplary
+STU_2059,2.0,118,64.7,22,5,4.5,Java,Needs Guidance
+STU_2060,1.9,207,68.3,30,4,4.4,C++,Needs Guidance
+STU_2061,1.6,161,69.4,34,8,6.0,JavaScript,Competent
+STU_2062,3.2,176,64.4,18,9,6.6,C++,Competent
+STU_2063,2.0,97,36.5,9,7,5.6,Python,Needs Guidance
+STU_2064,1.6,192,58.8,15,7,4.9,Python,Competent
+STU_2065,4.3,248,76.1,43,9,6.5,C++,Needs Guidance
+STU_2066,4.5,271,61.6,43,9,6.8,Python,Exemplary
+STU_2067,1.6,160,58.9,29,10,5.3,Python,Competent
+STU_2068,0.9,90,47.6,6,5,4.4,Python,Needs Guidance
+STU_2069,3.7,219,78.9,16,9,6.9,Python,Competent
+STU_2070,1.6,191,76.2,27,7,4.5,Python,Competent
+STU_2071,3.3,213,57.1,25,5,6.3,Python,Needs Guidance
+STU_2072,0.8,34,53.4,1,2,4.8,Python,Needs Guidance
+STU_2073,3.5,221,59.3,34,8,5.3,Python,Competent
+STU_2074,1.2,132,63.7,24,8,6.8,JavaScript,Needs Guidance
+STU_2075,3.2,260,71.4,30,9,6.4,Python,Competent
+STU_2076,2.2,118,64.4,21,8,6.3,Python,Needs Guidance
+STU_2077,1.4,149,62.6,18,5,4.5,Java,Needs Guidance
+STU_2078,1.8,139,82.7,19,9,6.9,Python,Competent
+STU_2079,3.1,201,55.2,19,6,5.9,JavaScript,Competent
+STU_2080,2.3,150,46.3,19,7,5.0,C++,Needs Guidance
+STU_2081,3.0,189,59.5,34,8,5.2,Python,Competent
+STU_2082,6.0,373,62.3,52,11,6.6,Python,Exemplary
+STU_2083,1.0,121,46.1,18,8,5.8,C++,Needs Guidance
+STU_2084,5.0,306,62.4,35,9,7.4,JavaScript,Exemplary
+STU_2085,2.3,161,53.4,23,5,5.6,Java,Needs Guidance
+STU_2086,1.4,68,46.9,2,5,4.8,Java,Needs Guidance
+STU_2087,1.1,71,58.9,19,5,3.8,Python,Needs Guidance
+STU_2088,2.0,195,59.0,34,12,6.6,JavaScript,Competent
+STU_2089,3.5,209,62.5,21,9,7.5,Python,Competent
+STU_2090,2.1,121,65.2,19,6,4.9,JavaScript,Competent
+STU_2091,4.7,276,62.3,43,9,7.0,Java,Competent
+STU_2092,1.1,116,55.6,27,3,3.3,Java,Needs Guidance
+STU_2093,2.2,116,60.7,21,5,5.3,Java,Needs Guidance
+STU_2094,1.2,78,39.7,12,6,4.7,Python,Needs Guidance
+STU_2095,2.7,123,39.1,12,9,7.2,Python,Needs Guidance
+STU_2096,3.5,217,67.2,34,10,7.5,Python,Needs Guidance
+STU_2097,1.8,158,64.5,38,7,5.2,Python,Competent
+STU_2098,0.6,46,69.6,16,5,4.5,C++,Needs Guidance
+STU_2099,2.5,225,66.3,26,8,5.6,Python,Needs Guidance
+STU_2100,2.8,228,71.8,31,7,4.7,Python,Competent
+STU_2101,2.7,164,59.4,27,10,6.0,JavaScript,Competent
+STU_2102,4.1,246,68.8,30,9,6.9,C++,Competent
+STU_2103,1.3,141,72.7,25,6,5.4,JavaScript,Needs Guidance
+STU_2104,3.1,239,48.9,32,5,5.4,JavaScript,Competent
+STU_2105,4.0,229,68.6,36,9,6.5,Python,Exemplary
+STU_2106,0.9,106,74.2,8,6,5.8,Python,Needs Guidance
+STU_2107,2.6,189,64.9,37,6,5.5,C++,Competent
+STU_2108,1.7,113,70.7,26,5,5.5,Java,Competent
+STU_2109,2.1,163,55.8,19,8,4.5,Python,Competent
+STU_2110,2.6,230,65.1,35,6,2.3,C++,Competent
+STU_2111,1.7,192,63.1,17,8,6.1,Python,Needs Guidance
+STU_2112,1.6,87,38.1,14,5,3.8,Python,Needs Guidance
+STU_2113,2.3,170,52.0,19,6,5.2,Java,Competent
+STU_2114,1.3,74,46.2,4,4,4.3,Java,Needs Guidance
+STU_2115,1.3,143,66.1,22,7,6.7,Java,Competent
+STU_2116,3.1,137,66.1,16,11,7.4,Python,Competent
+STU_2117,1.3,64,56.9,9,7,5.6,C++,Needs Guidance
+STU_2118,3.1,150,66.6,14,6,6.2,Python,Competent
+STU_2119,2.8,192,61.5,28,9,6.7,Python,Needs Guidance
+STU_2120,0.9,78,64.8,15,5,4.4,C++,Competent
+STU_2121,1.6,142,59.5,18,8,6.7,JavaScript,Needs Guidance
+STU_2122,4.0,257,67.6,28,10,6.1,C++,Competent
+STU_2123,1.4,116,55.6,10,1,3.9,C++,Needs Guidance
+STU_2124,1.8,188,68.0,25,5,3.7,Java,Needs Guidance
+STU_2125,2.8,191,59.4,24,9,6.6,Java,Needs Guidance
+STU_2126,3.3,190,70.5,34,9,6.7,Python,Competent
+STU_2127,2.0,169,52.2,16,5,6.3,Python,Needs Guidance
+STU_2128,1.7,123,49.4,22,5,3.7,Python,Needs Guidance
+STU_2129,4.5,320,76.8,50,7,5.7,Python,Exemplary
+STU_2130,5.3,363,73.5,49,11,8.3,C++,Exemplary
+STU_2131,3.6,233,61.9,30,12,7.8,Java,Exemplary
+STU_2132,2.3,132,65.9,27,8,6.1,Python,Competent
+STU_2133,1.5,99,51.7,18,9,5.3,Python,Competent
+STU_2134,1.5,160,59.1,20,7,5.0,Java,Needs Guidance
+STU_2135,2.9,184,73.5,26,9,7.4,Python,Needs Guidance
+STU_2136,2.7,184,74.6,26,11,6.9,C++,Competent
+STU_2137,4.5,297,82.4,41,10,7.4,Java,Exemplary
+STU_2138,3.1,204,61.3,22,8,6.1,Java,Competent
+STU_2139,1.0,90,65.8,8,7,4.4,Java,Needs Guidance
+STU_2140,3.8,211,56.5,24,11,8.0,C++,Competent
+STU_2141,1.4,84,48.3,6,5,5.3,Python,Needs Guidance
+STU_2142,1.8,141,40.6,12,5,6.8,Java,Needs Guidance
+STU_2143,2.5,193,76.2,28,8,5.2,Java,Needs Guidance
+STU_2144,6.0,326,64.8,42,13,9.1,Python,Exemplary
+STU_2145,8.0,450,79.0,66,15,8.5,C++,Exemplary
+STU_2146,3.0,198,55.9,30,6,5.7,C++,Competent
+STU_2147,2.0,94,61.8,7,9,7.0,Java,Needs Guidance
+STU_2148,2.9,187,59.5,34,7,4.2,C++,Competent
+STU_2149,3.5,214,53.8,39,8,6.1,C++,Needs Guidance
+STU_2150,1.9,120,61.5,14,5,4.5,C++,Needs Guidance
+STU_2151,5.5,361,62.6,49,15,8.3,C++,Exemplary
+STU_2152,2.5,139,52.6,19,7,6.0,Java,Needs Guidance
+STU_2153,2.9,202,46.6,30,7,6.7,Java,Needs Guidance
+STU_2154,3.1,166,49.7,20,9,6.4,Java,Needs Guidance
+STU_2155,2.7,147,61.2,13,8,6.2,C++,Needs Guidance
+STU_2156,3.4,175,46.0,29,8,6.3,Python,Competent
+STU_2157,1.6,122,46.3,19,7,5.5,C++,Needs Guidance
+STU_2158,1.7,124,58.2,18,5,4.1,C++,Needs Guidance
+STU_2159,1.3,109,52.9,9,5,5.7,Python,Needs Guidance
+STU_2160,2.8,189,78.5,25,5,5.4,C++,Competent
+STU_2161,3.3,190,77.3,34,6,5.9,Python,Competent
+STU_2162,2.8,217,57.5,28,10,6.1,Python,Competent
+STU_2163,5.1,313,75.3,45,13,7.8,C++,Exemplary
+STU_2164,2.2,154,66.3,19,7,5.5,Python,Competent
+STU_2165,3.1,226,60.3,40,11,5.8,C++,Competent
+STU_2166,1.3,82,43.5,9,5,3.5,C++,Needs Guidance
+STU_2167,1.8,156,60.3,26,6,4.8,Java,Competent
+STU_2168,3.2,242,64.8,40,9,6.9,Python,Competent
+STU_2169,3.4,185,58.8,36,8,5.7,Python,Competent
+STU_2170,1.9,129,62.1,21,6,4.5,Java,Needs Guidance
+STU_2171,2.1,139,53.3,19,8,5.3,JavaScript,Needs Guidance
+STU_2172,1.0,126,49.2,25,6,4.7,Java,Needs Guidance
+STU_2173,1.9,151,60.9,11,7,5.3,Python,Competent
+STU_2174,3.5,188,65.6,25,10,8.6,Java,Needs Guidance
+STU_2175,3.0,180,52.6,26,8,7.0,Java,Needs Guidance
+STU_2176,2.9,204,71.0,39,7,6.6,C++,Competent
+STU_2177,2.3,152,46.0,28,5,6.0,Python,Needs Guidance
+STU_2178,2.2,136,54.4,17,7,4.9,C++,Exemplary
+STU_2179,1.6,145,57.6,18,6,4.2,Java,Needs Guidance
+STU_2180,3.2,173,56.4,26,8,5.3,JavaScript,Competent
+STU_2181,2.7,184,57.7,22,7,6.8,Python,Needs Guidance
+STU_2182,2.8,165,76.0,36,12,6.9,Java,Competent
+STU_2183,1.7,97,49.7,10,4,3.6,JavaScript,Needs Guidance
+STU_2184,0.8,111,76.9,28,3,3.8,Python,Needs Guidance
+STU_2185,3.9,301,73.6,42,10,6.8,JavaScript,Competent
+STU_2186,1.8,152,60.9,30,6,5.5,Java,Needs Guidance
+STU_2187,1.4,57,57.6,15,6,5.4,Python,Needs Guidance
+STU_2188,3.1,152,80.4,29,9,5.8,Python,Exemplary
+STU_2189,1.8,116,49.8,10,8,6.4,C++,Needs Guidance
+STU_2190,3.8,247,57.5,31,7,5.5,Python,Needs Guidance
+STU_2191,3.0,217,58.4,33,7,5.7,Java,Competent
+STU_2192,3.1,233,65.8,41,9,7.0,Python,Exemplary
+STU_2193,1.1,115,43.9,8,7,4.9,Java,Needs Guidance
+STU_2194,4.1,235,65.8,34,13,7.5,Python,Exemplary
+STU_2195,2.5,195,76.5,25,9,6.8,C++,Competent
+STU_2196,1.9,80,56.5,11,6,4.6,JavaScript,Needs Guidance
+STU_2197,2.4,157,58.1,30,6,5.1,JavaScript,Competent
+STU_2198,0.9,38,47.6,10,4,4.9,C++,Needs Guidance
+STU_2199,2.7,175,68.9,26,7,7.4,Python,Competent
+STU_2200,1.3,107,50.5,15,7,5.9,C++,Needs Guidance
+STU_2201,1.1,96,71.2,11,6,5.5,Python,Needs Guidance
+STU_2202,1.0,102,72.3,16,4,4.9,Python,Needs Guidance
+STU_2203,3.9,218,66.6,34,8,5.5,Python,Competent
+STU_2204,1.6,119,57.8,17,7,5.6,Java,Needs Guidance
+STU_2205,4.8,238,74.1,35,10,7.2,C++,Exemplary
+STU_2206,1.7,176,70.5,24,7,5.8,Java,Needs Guidance
+STU_2207,0.9,118,51.4,29,6,5.1,Python,Competent
+STU_2208,1.3,107,52.9,20,8,6.0,Python,Needs Guidance
+STU_2209,4.1,312,60.2,45,10,6.8,JavaScript,Exemplary
+STU_2210,2.1,101,60.0,13,6,5.4,Python,Needs Guidance
+STU_2211,1.7,110,62.7,22,5,3.9,Java,Needs Guidance
+STU_2212,2.4,124,47.5,17,7,5.4,Python,Needs Guidance
+STU_2213,2.9,167,57.5,17,4,6.0,C++,Needs Guidance
+STU_2214,3.9,241,55.3,29,9,6.9,Java,Competent
+STU_2215,4.6,317,63.9,49,10,7.1,Python,Competent
+STU_2216,1.9,227,69.5,30,5,6.5,Python,Competent
+STU_2217,1.1,54,47.7,19,4,3.4,Java,Needs Guidance
+STU_2218,1.8,128,56.1,9,7,4.7,Java,Needs Guidance
+STU_2219,2.5,159,47.6,25,8,7.4,Python,Needs Guidance
+STU_2220,1.4,113,59.0,22,6,5.2,JavaScript,Needs Guidance
+STU_2221,1.4,110,57.0,21,7,5.3,Python,Needs Guidance
+STU_2222,2.6,125,52.5,12,7,4.8,Python,Needs Guidance
+STU_2223,2.2,187,61.0,17,9,6.6,JavaScript,Needs Guidance
+STU_2224,2.3,184,63.7,24,7,6.1,Python,Competent
+STU_2225,1.5,136,52.5,24,4,3.7,Java,Needs Guidance
+STU_2226,2.0,145,47.9,5,9,6.1,Python,Competent
+STU_2227,1.4,81,69.8,18,7,5.2,Python,Competent
+STU_2228,3.5,194,57.9,34,8,6.5,JavaScript,Competent
+STU_2229,3.7,195,62.2,41,7,5.1,Python,Competent
+STU_2230,0.9,90,64.1,21,6,6.0,C++,Needs Guidance
+STU_2231,1.4,136,87.3,24,6,5.9,Python,Competent
+STU_2232,1.1,95,46.4,11,8,5.4,Python,Needs Guidance
+STU_2233,1.6,101,60.3,5,5,4.7,Python,Needs Guidance
+STU_2234,2.1,114,51.9,21,6,5.2,Java,Needs Guidance
+STU_2235,1.1,144,55.3,25,7,4.8,Python,Needs Guidance
+STU_2236,1.4,151,54.3,30,8,5.4,C++,Needs Guidance
+STU_2237,1.3,147,50.8,24,6,4.9,Java,Needs Guidance
+STU_2238,2.5,136,58.7,30,9,7.6,JavaScript,Competent
+STU_2239,2.3,180,50.2,28,7,6.4,Python,Needs Guidance
+STU_2240,1.6,92,63.7,16,6,5.9,C++,Needs Guidance
+STU_2241,2.4,159,61.0,25,9,6.6,C++,Needs Guidance
+STU_2242,1.7,178,65.2,34,8,4.9,C++,Needs Guidance
+STU_2243,1.9,132,55.1,15,6,5.2,C++,Needs Guidance
+STU_2244,5.1,310,67.7,56,13,9.0,C++,Exemplary
+STU_2245,4.4,263,69.8,36,6,4.9,Java,Competent
+STU_2246,1.2,95,47.0,28,9,6.5,Python,Needs Guidance
+STU_2247,3.4,224,62.1,21,6,7.5,Python,Competent
+STU_2248,3.3,220,57.8,36,8,7.1,JavaScript,Competent
+STU_2249,1.3,132,51.7,13,6,6.3,Java,Competent
+STU_2250,3.4,182,45.3,21,8,6.4,C++,Needs Guidance
+STU_2251,4.8,280,79.4,43,12,8.6,Java,Competent
+STU_2252,1.3,116,52.2,27,5,4.3,Python,Needs Guidance
+STU_2253,1.4,127,67.8,12,6,5.8,Python,Needs Guidance
+STU_2254,3.7,190,71.2,22,8,6.8,Java,Competent
+STU_2255,2.5,191,52.4,26,8,6.3,Python,Needs Guidance
+STU_2256,2.9,184,53.6,28,8,7.2,Python,Competent
+STU_2257,2.6,140,79.8,31,8,5.6,Java,Competent
+STU_2258,2.7,187,76.5,35,7,5.6,Python,Competent
+STU_2259,1.1,76,54.8,17,5,4.9,Java,Needs Guidance
+STU_2260,3.8,274,70.3,50,10,6.1,Python,Exemplary
+STU_2261,4.0,224,59.9,38,11,7.5,C++,Competent
+STU_2262,2.0,167,64.6,20,6,3.9,Python,Needs Guidance
+STU_2263,2.2,129,52.9,11,5,5.9,Java,Needs Guidance
+STU_2264,1.0,91,39.8,14,6,5.1,Python,Needs Guidance
+STU_2265,2.9,205,53.1,26,8,5.7,Python,Competent
+STU_2266,3.0,240,66.2,37,9,5.8,Python,Needs Guidance
+STU_2267,2.2,168,52.2,28,6,5.2,Java,Needs Guidance
+STU_2268,3.9,204,63.1,26,6,6.3,Java,Competent
+STU_2269,1.9,105,48.4,24,6,5.7,Python,Needs Guidance
+STU_2270,3.0,195,56.7,35,7,5.3,Java,Competent
+STU_2271,1.3,128,65.4,31,6,4.4,C++,Needs Guidance
+STU_2272,2.2,178,63.8,31,6,5.9,C++,Needs Guidance
+STU_2273,2.0,155,60.3,29,8,5.3,Python,Competent
+STU_2274,2.5,194,70.0,27,7,5.8,Java,Needs Guidance
+STU_2275,1.9,136,62.9,25,7,5.7,Python,Needs Guidance
+STU_2276,2.1,177,73.4,34,7,5.9,Python,Competent
+STU_2277,3.4,225,61.3,21,8,6.9,JavaScript,Competent
+STU_2278,1.8,143,56.1,19,6,4.2,Python,Needs Guidance
+STU_2279,1.0,85,45.3,10,6,3.5,Java,Needs Guidance
+STU_2280,5.3,304,66.8,47,10,6.9,Java,Exemplary
+STU_2281,4.4,274,76.0,48,12,9.1,C++,Competent
+STU_2282,1.2,79,65.7,13,5,6.4,Java,Needs Guidance
+STU_2283,3.1,149,67.6,11,5,6.7,Python,Competent
+STU_2284,1.7,148,45.5,18,7,5.4,Python,Needs Guidance
+STU_2285,2.5,187,71.1,34,6,4.0,Java,Competent
+STU_2286,2.6,155,45.6,31,9,4.5,Python,Needs Guidance
+STU_2287,2.0,201,70.6,26,10,6.0,Python,Competent
+STU_2288,1.5,130,55.7,18,5,4.7,Python,Needs Guidance
+STU_2289,1.6,73,60.5,10,6,6.2,Python,Needs Guidance
+STU_2290,1.4,119,47.3,23,4,5.2,Python,Needs Guidance
+STU_2291,1.5,114,67.0,13,7,5.7,Python,Needs Guidance
+STU_2292,2.2,242,54.4,42,6,4.6,Java,Needs Guidance
+STU_2293,1.6,113,52.2,25,5,4.1,Java,Needs Guidance
+STU_2294,3.1,220,56.7,26,6,5.8,C++,Exemplary
+STU_2295,4.7,309,56.6,36,11,8.0,Python,Exemplary
+STU_2296,1.7,118,58.6,20,8,6.1,Python,Competent
+STU_2297,2.5,163,75.3,24,7,4.9,Python,Competent
+STU_2298,2.9,189,83.9,38,7,6.3,Java,Competent
+STU_2299,2.8,189,63.4,30,10,7.0,C++,Competent
+STU_2300,2.3,151,69.0,19,6,4.5,Python,Competent
+STU_2301,3.2,260,69.2,46,5,4.7,JavaScript,Competent
+STU_2302,2.8,219,68.6,29,8,6.7,Python,Competent
+STU_2303,1.2,106,54.3,24,4,4.3,Java,Needs Guidance
+STU_2304,3.4,159,62.2,27,10,8.1,C++,Exemplary
+STU_2305,3.5,231,69.7,36,8,6.7,C++,Competent
+STU_2306,1.5,138,54.6,22,7,5.1,C++,Needs Guidance
+STU_2307,2.3,139,58.6,10,9,6.3,C++,Needs Guidance
+STU_2308,3.1,232,65.0,46,7,5.9,Python,Competent
+STU_2309,2.0,176,68.3,33,6,4.7,C++,Competent
+STU_2310,3.8,271,59.5,32,9,5.9,Python,Exemplary
+STU_2311,7.3,403,76.5,49,15,9.9,C++,Exemplary
+STU_2312,1.5,124,73.6,23,5,5.6,Java,Needs Guidance
+STU_2313,1.1,96,65.7,18,5,5.3,C++,Needs Guidance
+STU_2314,2.6,183,73.0,30,8,7.3,Java,Competent
+STU_2315,3.2,253,67.1,32,7,5.5,Java,Exemplary
+STU_2316,2.0,155,62.9,27,7,6.9,Java,Competent
+STU_2317,4.6,303,78.2,51,8,5.8,C++,Exemplary
+STU_2318,1.1,105,69.5,22,9,5.2,Python,Needs Guidance
+STU_2319,3.1,214,48.7,22,6,4.2,Python,Needs Guidance
+STU_2320,1.6,203,53.0,31,6,4.8,Python,Needs Guidance
+STU_2321,5.3,354,84.1,58,11,7.2,Python,Exemplary
+STU_2322,6.0,405,74.8,74,15,9.4,C++,Exemplary
+STU_2323,1.5,108,51.8,11,4,4.8,Python,Needs Guidance
+STU_2324,1.7,80,45.3,23,9,5.2,JavaScript,Needs Guidance
+STU_2325,3.4,201,59.0,15,9,6.2,Python,Competent
+STU_2326,1.8,154,49.0,26,7,5.3,Python,Needs Guidance
+STU_2327,2.2,162,77.5,20,5,3.6,C++,Needs Guidance
+STU_2328,2.3,181,61.9,40,8,5.2,Java,Competent
+STU_2329,0.9,74,54.5,10,4,3.8,Java,Needs Guidance
+STU_2330,2.2,121,62.8,11,8,7.1,Java,Needs Guidance
+STU_2331,1.6,149,67.6,17,5,5.1,C++,Needs Guidance
+STU_2332,1.7,91,63.6,5,6,5.8,Python,Needs Guidance
+STU_2333,4.6,344,81.5,46,9,5.7,JavaScript,Exemplary
+STU_2334,1.2,85,50.6,1,4,5.5,JavaScript,Needs Guidance
+STU_2335,3.3,184,59.9,32,9,7.6,Java,Competent
+STU_2336,1.9,106,63.2,6,7,4.0,Python,Needs Guidance
+STU_2337,1.9,124,54.0,20,8,5.3,Java,Needs Guidance
+STU_2338,3.3,190,62.6,45,6,6.0,Python,Competent
+STU_2339,2.6,227,68.3,30,9,6.9,Python,Competent
+STU_2340,3.0,203,69.8,23,12,6.8,Python,Competent
+STU_2341,3.6,242,51.9,33,8,6.1,Java,Competent
+STU_2342,1.9,149,65.7,22,9,5.7,C++,Competent
+STU_2343,1.6,104,55.1,24,6,5.3,C++,Competent
+STU_2344,1.3,81,61.1,8,4,5.5,C++,Competent
+STU_2345,1.5,156,66.6,24,6,4.6,Python,Needs Guidance
+STU_2346,8.0,372,87.7,40,15,10.0,Python,Exemplary
+STU_2347,4.1,181,72.9,32,8,5.8,Python,Competent
+STU_2348,1.1,91,66.8,13,5,4.1,JavaScript,Needs Guidance
+STU_2349,1.1,113,69.1,22,7,6.0,Python,Competent
+STU_2350,2.8,193,65.2,28,8,6.8,C++,Competent
+STU_2351,2.9,189,62.9,18,8,6.8,Java,Competent
+STU_2352,2.9,194,69.9,21,8,5.1,Python,Competent
+STU_2353,2.0,161,66.6,25,8,5.5,C++,Needs Guidance
+STU_2354,2.1,184,59.8,23,6,6.0,Java,Needs Guidance
+STU_2355,2.6,131,62.0,22,8,6.1,C++,Competent
+STU_2356,2.3,169,61.0,21,6,4.5,JavaScript,Needs Guidance
+STU_2357,0.7,114,50.8,20,7,5.6,Python,Needs Guidance
+STU_2358,2.0,111,67.7,19,6,4.7,Python,Competent
+STU_2359,1.5,87,56.2,19,8,7.2,Java,Needs Guidance
+STU_2360,2.4,190,79.1,43,7,6.9,JavaScript,Competent
+STU_2361,8.0,406,64.1,51,14,9.7,Python,Competent
+STU_2362,2.7,172,57.0,13,6,6.6,Java,Needs Guidance
+STU_2363,1.9,145,59.9,29,5,5.0,Java,Needs Guidance
+STU_2364,3.5,190,71.8,27,6,6.3,C++,Competent
+STU_2365,2.8,170,64.5,26,6,6.7,Python,Competent
+STU_2366,2.7,199,65.8,21,7,6.0,C++,Competent
+STU_2367,3.0,195,54.0,27,8,5.9,JavaScript,Competent
+STU_2368,6.2,381,66.1,63,14,7.4,Python,Exemplary
+STU_2369,1.3,128,61.1,25,5,4.8,Python,Needs Guidance
+STU_2370,2.8,237,54.9,35,7,6.5,JavaScript,Needs Guidance
+STU_2371,1.4,78,50.9,8,4,5.3,Python,Needs Guidance
+STU_2372,2.9,208,67.9,20,8,6.5,C++,Competent
+STU_2373,1.4,86,47.9,1,8,5.3,Java,Needs Guidance
+STU_2374,1.8,122,71.0,15,8,4.3,Python,Competent
+STU_2375,1.9,225,74.8,30,8,5.5,C++,Competent
+STU_2376,3.6,213,51.6,38,10,6.7,Python,Competent
+STU_2377,3.5,212,56.7,31,11,6.9,Java,Competent
+STU_2378,1.2,81,37.1,18,6,5.6,Python,Needs Guidance
+STU_2379,2.3,176,55.5,19,8,7.6,Java,Competent
+STU_2380,1.6,177,67.9,22,6,5.3,Python,Needs Guidance
+STU_2381,1.2,167,57.8,24,4,4.3,Python,Competent
+STU_2382,2.0,153,63.9,10,5,4.8,JavaScript,Needs Guidance
+STU_2383,1.9,147,47.6,25,7,5.7,Python,Competent
+STU_2384,7.5,429,85.0,66,14,8.4,Java,Exemplary
+STU_2385,2.8,141,55.0,25,11,7.1,Python,Competent
+STU_2386,1.1,170,61.4,23,6,5.4,C++,Needs Guidance
+STU_2387,1.7,198,62.5,44,9,6.3,Python,Needs Guidance
+STU_2388,3.7,220,54.5,33,8,6.7,JavaScript,Competent
+STU_2389,6.3,403,67.6,54,12,8.5,Java,Exemplary
+STU_2390,1.0,65,62.1,11,3,2.7,Python,Needs Guidance
+STU_2391,0.9,109,60.5,17,4,4.9,Python,Needs Guidance
+STU_2392,5.7,337,80.9,51,12,7.5,Python,Exemplary
+STU_2393,2.7,204,66.2,29,8,5.2,Java,Competent
+STU_2394,1.4,102,57.9,11,7,4.6,Python,Needs Guidance
+STU_2395,2.9,163,47.1,31,8,6.5,C++,Competent
+STU_2396,0.6,110,55.2,26,5,4.5,Python,Needs Guidance
+STU_2397,2.2,195,62.8,28,10,5.2,Python,Needs Guidance
+STU_2398,2.6,197,78.8,35,8,6.4,Java,Competent
+STU_2399,3.5,240,71.5,31,10,5.7,C++,Competent
+STU_2400,1.3,102,69.1,24,5,4.9,Python,Needs Guidance
+STU_2401,2.3,169,66.0,27,8,6.2,Python,Needs Guidance
+STU_2402,1.4,88,50.2,11,7,6.2,Python,Needs Guidance
+STU_2403,2.5,200,64.3,29,8,7.5,C++,Competent
+STU_2404,1.4,104,58.8,11,2,2.9,Java,Needs Guidance
+STU_2405,1.8,148,52.4,17,6,5.2,Java,Needs Guidance
+STU_2406,1.4,152,57.1,21,8,5.5,C++,Needs Guidance
+STU_2407,3.1,228,63.6,33,9,6.8,C++,Competent
+STU_2408,3.4,206,76.6,23,9,6.7,Java,Competent
+STU_2409,2.0,143,42.9,31,4,4.4,C++,Needs Guidance
+STU_2410,2.3,176,71.4,30,6,5.0,Python,Competent
+STU_2411,1.1,82,48.0,12,6,4.2,Python,Needs Guidance
+STU_2412,1.9,110,46.4,10,7,6.4,Python,Needs Guidance
+STU_2413,2.2,148,69.3,23,9,6.6,Python,Competent
+STU_2414,8.0,413,83.4,58,14,9.9,Java,Exemplary
+STU_2415,1.3,68,64.6,19,7,5.2,JavaScript,Needs Guidance
+STU_2416,4.6,256,73.5,37,10,6.6,Python,Competent
+STU_2417,3.7,204,80.1,18,7,5.2,Python,Competent
+STU_2418,2.6,140,63.8,24,4,5.1,Java,Competent
+STU_2419,5.4,314,69.7,43,11,6.8,JavaScript,Competent
+STU_2420,2.7,245,69.1,33,8,7.6,Python,Competent
+STU_2421,2.7,198,73.1,22,7,4.7,Java,Competent
+STU_2422,2.2,232,59.2,38,5,5.3,Python,Needs Guidance
+STU_2423,4.1,229,60.1,21,10,8.3,Python,Competent
+STU_2424,3.9,297,67.3,46,9,7.2,JavaScript,Exemplary
+STU_2425,1.6,110,40.5,19,7,5.6,JavaScript,Needs Guidance
+STU_2426,1.2,111,58.5,25,9,5.2,Python,Needs Guidance
+STU_2427,2.0,84,40.5,24,4,3.6,JavaScript,Needs Guidance
+STU_2428,1.5,176,62.2,29,5,5.5,Java,Needs Guidance
+STU_2429,2.2,192,69.7,21,7,6.9,C++,Needs Guidance
+STU_2430,4.1,221,60.9,28,11,7.0,Java,Competent
+STU_2431,1.8,159,74.0,33,4,3.7,Java,Needs Guidance
+STU_2432,2.2,139,47.6,23,10,4.6,Java,Competent
+STU_2433,2.3,179,71.5,27,7,4.9,Java,Competent
+STU_2434,3.4,270,73.4,42,9,6.5,Python,Competent
+STU_2435,0.7,24,37.9,6,5,6.0,Python,Needs Guidance
+STU_2436,1.6,151,81.8,25,6,5.7,Python,Needs Guidance
+STU_2437,2.5,159,60.1,22,9,6.6,C++,Exemplary
+STU_2438,4.1,256,60.0,36,8,6.1,Python,Competent
+STU_2439,1.7,149,48.7,22,7,5.1,Java,Needs Guidance
+STU_2440,0.9,66,52.6,4,4,5.5,JavaScript,Needs Guidance
+STU_2441,3.0,183,61.2,23,7,6.0,Python,Competent
+STU_2442,1.6,149,60.8,31,11,5.0,Java,Needs Guidance
+STU_2443,1.2,151,57.7,25,7,4.9,Python,Needs Guidance
+STU_2444,1.6,140,64.4,20,7,4.8,C++,Needs Guidance
+STU_2445,2.0,161,57.6,25,9,5.8,Python,Needs Guidance
+STU_2446,1.6,94,40.8,18,4,5.1,Java,Needs Guidance
+STU_2447,0.7,100,55.5,25,8,5.5,C++,Needs Guidance
+STU_2448,3.5,243,47.3,31,5,5.3,JavaScript,Needs Guidance
+STU_2449,4.2,264,70.4,39,8,7.5,Java,Competent
+STU_2450,3.1,241,58.2,39,8,5.6,Java,Competent
+STU_2451,1.3,146,61.0,12,7,6.9,Java,Competent
+STU_2452,2.0,203,74.0,35,7,5.1,C++,Competent
+STU_2453,2.2,136,51.5,12,6,5.4,Java,Needs Guidance
+STU_2454,3.0,217,73.0,43,8,5.9,Python,Competent
+STU_2455,3.1,134,55.5,27,7,6.0,JavaScript,Needs Guidance
+STU_2456,1.5,118,71.9,18,4,4.9,Java,Needs Guidance
+STU_2457,2.3,124,55.3,10,8,6.3,Java,Competent
+STU_2458,2.8,193,56.1,25,9,5.8,Python,Competent
+STU_2459,4.6,258,72.7,32,12,6.9,Java,Exemplary
+STU_2460,3.2,191,59.2,26,7,7.9,Python,Competent
+STU_2461,3.3,167,54.4,30,9,6.1,Java,Competent
+STU_2462,2.3,160,56.8,33,7,6.2,Python,Needs Guidance
+STU_2463,4.5,290,69.0,41,12,6.4,Java,Competent
+STU_2464,2.7,233,76.3,30,9,6.2,JavaScript,Exemplary
+STU_2465,1.4,99,41.1,10,6,5.0,Python,Needs Guidance
+STU_2466,4.5,266,67.9,32,9,7.2,JavaScript,Competent
+STU_2467,3.2,265,72.7,45,10,4.6,Python,Competent
+STU_2468,1.8,108,58.7,16,7,5.7,C++,Competent
+STU_2469,1.8,179,72.4,35,6,4.3,C++,Competent
+STU_2470,2.6,157,59.9,25,5,5.4,Java,Competent
+STU_2471,2.8,211,62.6,28,7,5.0,C++,Competent
+STU_2472,2.5,198,67.9,35,10,5.9,C++,Exemplary
+STU_2473,2.6,210,64.8,37,10,6.4,Python,Competent
+STU_2474,5.2,287,66.0,43,9,6.2,Python,Exemplary
+STU_2475,3.8,251,70.9,32,7,5.7,Java,Competent
+STU_2476,2.4,221,59.5,25,9,5.3,C++,Competent
+STU_2477,3.6,210,59.1,36,7,4.5,C++,Competent
+STU_2478,1.3,124,54.0,26,7,6.2,C++,Needs Guidance
+STU_2479,2.7,192,73.6,28,7,4.7,Python,Competent
+STU_2480,5.5,354,47.8,51,14,8.4,C++,Exemplary
+STU_2481,2.0,165,64.2,36,6,5.9,Python,Competent
+STU_2482,1.5,62,54.4,23,8,5.3,Java,Competent
+STU_2483,1.6,171,48.0,23,7,4.8,Python,Needs Guidance
+STU_2484,1.3,108,59.7,6,6,5.3,Python,Needs Guidance
+STU_2485,1.5,41,56.5,1,3,5.2,Python,Needs Guidance
+STU_2486,1.8,133,63.6,25,3,3.4,Python,Competent
+STU_2487,1.1,143,38.3,16,5,4.7,Java,Needs Guidance
+STU_2488,2.2,187,73.4,20,7,4.3,Python,Competent
+STU_2489,3.5,253,61.0,35,7,5.7,Python,Competent
+STU_2490,1.4,116,63.2,19,4,4.6,Python,Competent
+STU_2491,4.8,310,76.6,50,11,6.8,Python,Exemplary
+STU_2492,2.9,194,55.9,30,9,6.1,Python,Competent
+STU_2493,3.7,249,71.9,28,8,5.2,Python,Exemplary
+STU_2494,1.6,126,55.3,28,8,5.9,Java,Needs Guidance
+STU_2495,3.4,195,46.4,30,7,6.8,Java,Needs Guidance
+STU_2496,1.3,151,69.4,23,6,4.2,Java,Competent
+STU_2497,3.5,215,58.1,29,11,6.7,Java,Competent
+STU_2498,2.4,192,56.0,20,7,6.1,Python,Competent
+STU_2499,2.9,181,58.8,30,8,7.1,C++,Competent

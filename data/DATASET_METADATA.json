@@ -1,0 +1,31 @@
+{
+    "dataset_name": "Simulated Student Coding Practice & Productivity Telemetry",
+    "is_synthetic": true,
+    "status": "SIMULATED / SYNTHETIC",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0) / MIT",
+    "sample_size": 1500,
+    "random_seed": 42,
+    "date_created": "2024 / Academic Demo",
+    "class_distribution": {
+        "Needs Guidance": 682,
+        "Competent": 673,
+        "Exemplary": 145
+    },
+    "features": {
+        "daily_coding_hours": "Average active hours spent coding/practicing per day (0.5 - 8.0)",
+        "problems_solved": "Total algorithmic/data structure challenges solved on platform (5 - 450)",
+        "submission_accuracy": "Percentage of test cases passed on first 3 submissions (35.0% - 98.0%)",
+        "consistency_streak_days": "Consecutive days with at least one active submission (1 - 90)",
+        "assignments_completed": "Curriculum laboratory assignments submitted on time (1 - 15)",
+        "focus_score": "Composite metric combining lab attendance and distraction index (1.0 - 10.0)",
+        "primary_language": "Primary programming language track (Python, Java, C++, JavaScript)"
+    },
+    "target_variable": "performance_tier",
+    "target_classes": [
+        "Needs Guidance",
+        "Competent",
+        "Exemplary"
+    ],
+    "justification": "Public competition datasets (such as Kaggle Student Productivity) require authenticated credentials and API tokens. Public academic benchmarks (e.g., UCI Student Performance) record general secondary school demographics and alcohol consumption, not coding telemetry. CodeSearchNet is a code-docstring retrieval corpus without performance metrics. Hence, a fully reproducible, carefully controlled synthetic dataset was modeled to demonstrate end-to-end ML training.",
+    "ethical_disclaimer": "This simulated dataset is designed strictly for educational demonstration. Measured test accuracy only reflects the mathematical data-generating process and does not validate real-world student abilities."
+}

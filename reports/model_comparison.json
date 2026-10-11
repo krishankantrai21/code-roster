@@ -1,0 +1,32 @@
+[
+    {
+        "model_name": "Decision Tree (Baseline)",
+        "cv_f1_macro_mean": 0.6906,
+        "cv_f1_macro_std": 0.0343,
+        "cv_acc_mean": 0.7092,
+        "test_accuracy": 0.72,
+        "test_macro_precision": 0.7356,
+        "test_macro_recall": 0.676,
+        "test_macro_f1": 0.6987
+    },
+    {
+        "model_name": "Logistic Regression",
+        "cv_f1_macro_mean": 0.7167,
+        "cv_f1_macro_std": 0.0223,
+        "cv_acc_mean": 0.7308,
+        "test_accuracy": 0.7567,
+        "test_macro_precision": 0.7714,
+        "test_macro_recall": 0.7119,
+        "test_macro_f1": 0.7356
+    },
+    {
+        "model_name": "Random Forest Classifier",
+        "cv_f1_macro_mean": 0.7137,
+        "cv_f1_macro_std": 0.0189,
+        "cv_acc_mean": 0.7308,
+        "test_accuracy": 0.7267,
+        "test_macro_precision": 0.7501,
+        "test_macro_recall": 0.6898,
+        "test_macro_f1": 0.7139
+    }
+]

@@ -1,0 +1,38 @@
+{
+    "Competent": {
+        "daily_coding_hours": 0.0411,
+        "problems_solved": -0.2021,
+        "submission_accuracy": 0.0053,
+        "consistency_streak_days": 0.1298,
+        "assignments_completed": 0.0443,
+        "focus_score": -0.0154,
+        "primary_language_C++": -0.0884,
+        "primary_language_Java": -0.0274,
+        "primary_language_JavaScript": 0.1131,
+        "primary_language_Python": 0.0032
+    },
+    "Exemplary": {
+        "daily_coding_hours": 0.7981,
+        "problems_solved": 0.97,
+        "submission_accuracy": 0.6018,
+        "consistency_streak_days": 0.1764,
+        "assignments_completed": 0.274,
+        "focus_score": 0.2025,
+        "primary_language_C++": 0.2995,
+        "primary_language_Java": -0.0296,
+        "primary_language_JavaScript": -0.3273,
+        "primary_language_Python": 0.0538
+    },
+    "Needs Guidance": {
+        "daily_coding_hours": -0.8392,
+        "problems_solved": -0.7678,
+        "submission_accuracy": -0.6071,
+        "consistency_streak_days": -0.3062,
+        "assignments_completed": -0.3183,
+        "focus_score": -0.1871,
+        "primary_language_C++": -0.2111,
+        "primary_language_Java": 0.057,
+        "primary_language_JavaScript": 0.2142,
+        "primary_language_Python": -0.0569
+    }
+}

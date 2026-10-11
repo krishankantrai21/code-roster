@@ -1,0 +1,49 @@
+{
+    "model_name": "Logistic Regression",
+    "selection_metric": "test_macro_f1",
+    "best_metric_value": 0.7356,
+    "metrics": {
+        "test_accuracy": 0.7567,
+        "test_macro_precision": 0.7714,
+        "test_macro_recall": 0.7119,
+        "test_macro_f1": 0.7356,
+        "cv_f1_macro_mean": 0.7167
+    },
+    "target_variable": "performance_tier",
+    "classes": [
+        "Competent",
+        "Exemplary",
+        "Needs Guidance"
+    ],
+    "numerical_features": [
+        "daily_coding_hours",
+        "problems_solved",
+        "submission_accuracy",
+        "consistency_streak_days",
+        "assignments_completed",
+        "focus_score"
+    ],
+    "categorical_features": [
+        "primary_language"
+    ],
+    "train_samples": 1200,
+    "test_samples": 300,
+    "random_state": 42,
+    "dataset_type": "Simulated Student Coding Telemetry",
+    "feature_importances": {
+        "problems_solved": 0.289,
+        "daily_coding_hours": 0.2393,
+        "submission_accuracy": 0.1355,
+        "consistency_streak_days": 0.1344,
+        "focus_score": 0.0959,
+        "assignments_completed": 0.0762,
+        "primary_language_Python": 0.0084,
+        "primary_language_Java": 0.008,
+        "primary_language_C++": 0.0071,
+        "primary_language_JavaScript": 0.0062
+    },
+    "pipeline_stages": [
+        "ColumnTransformer(StandardScaler for num, OneHotEncoder for cat)",
+        "Logistic Regression"
+    ]
+}

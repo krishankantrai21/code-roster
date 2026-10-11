@@ -1,0 +1,4 @@
+model_name,cv_f1_macro_mean,cv_f1_macro_std,cv_acc_mean,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1
+Logistic Regression,0.7167,0.0223,0.7308,0.7567,0.7714,0.7119,0.7356
+Random Forest Classifier,0.7137,0.0189,0.7308,0.7267,0.7501,0.6898,0.7139
+Decision Tree (Baseline),0.6906,0.0343,0.7092,0.72,0.7356,0.676,0.6987
